@@ -22,7 +22,7 @@ class Translator():
 		self.status_dict = defaultdict(str)
 
 	def download_res(self):
-		for file in ["BNpcName.csv", "Action.csv", "Status.csv"]:
+		for file in ["BNpcName.csv", "Action.csv", "Status.csv", "PlaceName.csv"]:
 			r = requests.get(os.path.join(ffxiv_datamining_base, file))
 			with codecs.open(os.path.join(self.en_path, file), "wb") as f:
 				f.write(r.content)
@@ -32,7 +32,7 @@ class Translator():
 
 	def init_db(self):
 		en_name_key = defaultdict(str)
-		with codecs.open(os.path.join(self.en_path, "BNpcName.csv")) as f:
+		with codecs.open(os.path.join(self.en_path, "BNpcName.csv"), "r", "utf8") as f:
 			reader = csv.reader(f)
 			for row in reader:
 				if len(row) < 4: continue
@@ -42,7 +42,7 @@ class Translator():
 				en_name_key[single.lower()] = key
 				en_name_key[plural.lower()] = key
 		cn_key_name = defaultdict(str)
-		with codecs.open(os.path.join(self.cn_path, "BNpcName.csv")) as f:
+		with codecs.open(os.path.join(self.cn_path, "BNpcName.csv"), "r", "utf8") as f:
 			reader = csv.reader(f)
 			for row in reader:
 				if len(row) < 4: continue
@@ -54,7 +54,7 @@ class Translator():
 			self.npc_dict[k] = cn_key_name[en_name_key[k]]
 
 		en_name_key = defaultdict(str)
-		with codecs.open(os.path.join(self.en_path, "Action.csv")) as f:
+		with codecs.open(os.path.join(self.en_path, "Action.csv"), "r", "utf8") as f:
 			reader = csv.reader(f)
 			for row in reader:
 				if len(row) < 2: continue
@@ -63,7 +63,7 @@ class Translator():
 					continue
 				en_name_key[name.lower()] = key
 		cn_key_name = defaultdict(str)
-		with codecs.open(os.path.join(self.cn_path, "Action.csv")) as f:
+		with codecs.open(os.path.join(self.cn_path, "Action.csv"), "r", "utf8") as f:
 			reader = csv.reader(f)
 			for row in reader:
 				if len(row) < 2: continue
@@ -76,7 +76,7 @@ class Translator():
 
 
 		en_name_key = defaultdict(str)
-		with codecs.open(os.path.join(self.en_path, "Status.csv")) as f:
+		with codecs.open(os.path.join(self.en_path, "Status.csv"), "r", "utf8") as f:
 			reader = csv.reader(f)
 			for row in reader:
 				if len(row) < 2: continue
@@ -85,7 +85,7 @@ class Translator():
 					continue
 				en_name_key[name.lower()] = key
 		cn_key_name = defaultdict(str)
-		with codecs.open(os.path.join(self.cn_path, "Status.csv")) as f:
+		with codecs.open(os.path.join(self.cn_path, "Status.csv"), "r", "utf8") as f:
 			reader = csv.reader(f)
 			for row in reader:
 				if len(row) < 2: continue
