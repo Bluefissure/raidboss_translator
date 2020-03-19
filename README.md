@@ -2,8 +2,7 @@
 
 ## To use
 
-1. copy-paste language locale from `***.js` to a file (take locale.json` for example)
-2. Run in python console:
+1. Run in python console to download the resources:
 
 ```python
 from translator import Translator
@@ -11,6 +10,6 @@ t = Translator()
 t.download_res()
 ```
 
-3. Type `python translator.py -h` for more help.
+2. Type `python translator.py -h` for more help.
 
 You may need eslint for linting the code.
