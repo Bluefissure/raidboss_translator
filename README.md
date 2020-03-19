@@ -9,8 +9,8 @@
 from translator import Translator
 t = Translator()
 t.download_res()
-t.init_db()
-t.translate("locale.json")
 ```
+
+3. Type `python translator.py -h` for more help.
 
 You may need eslint for linting the code.
