@@ -13,3 +13,4 @@ t.init_db()
 t.translate("locale.json")
 ```
 
+You may need eslint for linting the code.

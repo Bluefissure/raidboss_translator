@@ -1,0 +1,502 @@
+﻿en	de	fr	ja	cn	ko	lineno
+'Get to your pads'	'Geh auf Dein Feld'	'Allez sur votre tour'		'踩塔'	'패드 밟기'	orbonne_monastery.js line#22
+'Pick up tether'	'Verbindung abnehmen'	'Prenez le lien'			'선 가져오기'	orbonne_monastery.js line#35
+'Point opening at Mustadio'	'Richte Öffnung auf Mustadio'	'Orientez l\'ouverture vers le boss'		'脚下光环缺口对准boss'	'문양이 빈 쪽을 무스타디오쪽으로 향하게 하기'	orbonne_monastery.js line#83
+'Searchlight on YOU'	'Suchscheinwerfer auf DIR'	'Repérage sur VOUS'		'探照灯点名'	'탐조등 대상자'	orbonne_monastery.js line#106
+'Pick up swords'	'Schwerter aufnehmen'	'Prenez les épées'		'进入附近的剑标记圈'	'검 들기'	orbonne_monastery.js line#168
+'Go To Center'	'In die Mitte gehen'	'Allez au centre'		'前往中间'	'중앙으로 이동'	orbonne_monastery.js line#214
+'Get Shield'	'Schild nehmen'	'Prenez un bouclier'		'进入盾标记圈'	'방패 들기'	orbonne_monastery.js line#229
+'Use Shield, Face Knights'	'Schild benutzen, Ritter anschauen'	'Bouclier, face au chevaliers'		'面对剑骑使用盾牌'	'방패 사용하고, 기사 바라보기'	orbonne_monastery.js line#245
+'Kill shields with sword'	'Schilde mit Schwert zerstören'	'Détruisez les boucliers avec les épées'		'用剑摧毁盾牌'	'방패에 검 사용하기'	orbonne_monastery.js line#261
+'Use shield, face boss'	'Schild benutzen, Boss anschauen'	'Bouclier, face au boss'		'面对boss使用盾牌'	'방패 사용하고, 보스 바라보기'	orbonne_monastery.js line#276
+'Use shield if tethered'	'Schild benutzen, wenn verbunden'	'Bouclier si lié'		'被连线使用盾牌'	'선 연결되면 방패 사용하기'	orbonne_monastery.js line#291
+'Feint Tank Buster'	'Tankbuster Zermürben'	'Evitez Tank Buster'		'坦克死刑'	'성천폭격타 탱버'	orbonne_monastery.js line#322
+'Give Tether Away'	'Verbindung abgeben'	'Donnez le lien'			'선 가져오기'	orbonne_monastery.js line#353
+'Give Tether Away'	'Verbindung abgeben'	'Donnez le lien'			'장 바깥으로 빼기'	orbonne_monastery.js line#371
+'Kill Icewolf Adds'	'Besiege die Eiswolf Adds'	'Tuez les Grêlons de glace'		'速度消灭冰狼'	'얼음 부수기'	orbonne_monastery.js line#386
+'Heal To Full'	'Vollheilen'	'Full life'		'奶满'	'체력 풀피로'	orbonne_monastery.js line#405
+'Stand on Pads'	'Auf Felder stellen'	'Restez sur le pad'		'踩塔'	'패드 밟기'	orbonne_monastery.js line#420
+'Drop Bubble In Back'	'Blase hinten ablegen'	'Déposez bulles derrière'			'징 뒤에 깔기'	orbonne_monastery.js line#433
+'Bolt on YOU'	'Blitz auf DIR'	'Eclair sur VOUS'			'번개 대상자'	orbonne_monastery.js line#446
+'Point Line Outside'	'Linie nach Außen'	'Ligne vers l\'extérieur'		'向外远离'	'성광폭렬파 바깥으로 빼기'	orbonne_monastery.js line#473
+'Rotate right'	'Im Uhrzeigersinn ausweichen'	'Evitez les épées dans le sens anti-horaire'		'向右避开'	'오른쪽으로 돌기'	orbonne_monastery.js line#528
+'Rotate left'	'Schwertern im Uhrzeigersinn ausweichen'	'Evitez les épées dans le sens horaire'		'向左避开'	'왼쪽으로 돌기'	orbonne_monastery.js line#544
+'Eruption on YOU'	'Eruption auf DIR'	'Éruption sur vous'			'불기둥 대상자'	orbonne_monastery.js line#576
+'Stand on Slow Clock'	'In der langsamen Uhr stehen'	'Placez-vous sur une horloge lente'		'站慢速时钟等待爆炸后离开'	'느린 시계 위로'	orbonne_monastery.js line#599
+'Look for Hashmal dash'	'Nach Hashmal-Dash ausschau halten'	'Attention au dash'		'观察场地大十字路径并远离'	'하쉬말 돌진 확인'	orbonne_monastery.js line#614
+'Heal Like Whoa'	'Heilen was das Zeug hält'	'Mass heal'		'加大治疗'	'계속 힐 돌리기'	orbonne_monastery.js line#632
+'Kill Ruination!'	'Zerstörung vernichten'	'Tuez la Marque des déchus'		'速度消灭堕天之证'	'타락의 증거 죽이기'	orbonne_monastery.js line#652
+'Look for Tsunami'	'Auf Krug achten'	'Attention Tsunami'		'离开水瓶口方向'	'대해일 확인'	ridorana_lighthouse.js line#38
+'Look for Tsunami'	'Auf Krug achten'	'Attention Tsunami'		'离开水瓶口方向'	'대해일 확인'	ridorana_lighthouse.js line#60
+'Look for Tsunami'	'Auf Krug achten'	'Attention Tsunami'		'离开水瓶口方向'	'대해일 확인'	ridorana_lighthouse.js line#82
+'Stretch Tether Outside'	'Verbindung nach außen strecken'	'Lien vers l\'exterieur'		'将连线朝外远离人群'	'줄 바깥으로 늘이기'	ridorana_lighthouse.js line#158
+'Stop Clocks'	'Uhrzeiger nach außen'	'Arrêtez horloge'			'시간 폭탄'	ridorana_lighthouse.js line#173
+'Move to Postive'	'Ins Positive laufen'	'Allez sur le plus'		'移动到正极'	'+전하 쪽으로'	ridorana_lighthouse.js line#460
+'Move to Negative'	'Ins Negative laufen'	'Allez sur le moins'		'移动到负极'	'-전하 쪽으로'	ridorana_lighthouse.js line#478
+'Kill Heart'	'Herz'	'Tuer le cœur'		'消灭boss核心'	'심핵 처리'	ridorana_lighthouse.js line#505
+'Kill Aqua Spheres'	'Wasserkugeln zerstören'	'Détruire les bulles d\'eau'		'击杀水球'	'물 구체 죽이기'	royal_city_of_rabanastre.js line#20
+'Move To Safe Spot'	'Zur sicheren Zone'	'Allez en zone sûre'		'去安全点'	'안전 지대로 이동'	royal_city_of_rabanastre.js line#102
+'Move Away'	'Weg da'	'Eloignez-vous'		'远离大锤落点'	'피하기'	royal_city_of_rabanastre.js line#134
+'Kill Golems'	'Golems töten'	'Détruisez les golems'		'击杀小怪'	'골렘 죽이기'	royal_city_of_rabanastre.js line#155
+'Dragon Voice: Move In'	'Stimme Des Drachen: Rein'	'Voix Du Dragon : Packez-vous'		'雷电咆哮: 靠近'	'뇌전 포효: 안으로'	royal_city_of_rabanastre.js line#176
+'Ram Voice: Move Out'	'Stimme Des Widders: Raus'	'Voix Du Bélier : Eloignez-vous'		'寒冰咆哮: 远离'	'빙결 포효: 바깥으로'	royal_city_of_rabanastre.js line#197
+'Trample'	'Zertrampeln'	'Fauchage'		'蹂躏'	'유린'	royal_city_of_rabanastre.js line#226
+'Out of blue circle'	'Raus aus dem blauen Kreis'	'Hors du cercle bleu'		'离开蓝圈'		ala_mhigo.js line#59
+'Protean'	'Um den Boss verteilen'	'Changement'				ala_mhigo.js line#83
+'Face tether out'	'Verbindung nach draußen richten'	'Lien vers l\'extérieur'		'离开人群背对连线'		ala_mhigo.js line#100
+'avoid eye lasers'	'Augenlaser ausweichen'	'Evitez les lasers'		'避免眼部激光'		drowned_city_of_skalla.js line#57
+'swipe'	'Hieb'	'Fauche'		'横扫'		fractal_continuum_hard.js line#18
+'swipe'	'Hieb'	'Fauche'		'横扫'		fractal_continuum_hard.js line#32
+'Swing'	'Schwung'	'Swing'				fractal_continuum_hard.js line#46
+'Swing'	'Schwung'	'Swing'				fractal_continuum_hard.js line#60
+'Dragon\'s Voice'	'Stimme Des Drachen'	'Voix Du Dragon'				fractal_continuum_hard.js line#74
+'Ram\'s Voice'	'Stimme Des Widders'	'Voix Du Bélier'				fractal_continuum_hard.js line#93
+'Stand in blue'	'Im Blauen stehen'	'Allez dans le bleu'		'站在蓝色'		temple_of_the_fist.js line#73
+'Stand in red'	'Im Roten stehen'	'Allez dans le rouge'		'站在红色'		temple_of_the_fist.js line#85
+'watch for safe'	'nach sicherer Position schauen'	'trouvez une zone safe'		'前往安全区'		temple_of_the_fist.js line#119
+'Avoid floating heads'	'Weiche den fliegenden Köpfen aus'	'Evitez les têtes'		'避开漂浮的头'		temple_of_the_fist.js line#164
+'Away from marker'	'Weg von den Markierungen'	'Loin de la marque'		'远离标记'		temple_of_the_fist.js line#178
+'Swipe'	'Hieb'	'Fauche'		'横扫'		eureka_anemos.js line#49
+'Eye Donut'	'Augendonut'	'Donut œil'		'月环'		eureka_anemos.js line#74
+'Glower Laser'	'Blick Laser'	'Regard Laser'		'怒视'		eureka_anemos.js line#89
+'Ice ball on you!'	'Eisball auf dir!'	'Boule de glace sur vous!'		'点名冰球！'		eureka_anemos.js line#127
+'Plague Donut'	'Plagen-Donut'	'Donut Nuée'		'月环'		eureka_anemos.js line#181
+'WAKE UP'	'AUFWACHEN'	'REVEILLES TOI'		'醒醒！动一动！！'		eureka_anemos.js line#232
+'Shields and Mitigation'	'Schilde und Abschwächungen'			'切盾减伤'		eureka_hydatos.js line#25
+'Pop Eurekan Potions'	'Eureka-Heiltränke benutzen'			'磕优雷卡回复药'		eureka_hydatos.js line#38
+'Black Hole Soon'	'Schwarzes Loch'			'黑洞警告'		eureka_hydatos.js line#50
+'Under Spears'	'Unter einen Speer'			'枪脚下'		eureka_hydatos.js line#244
+'Get to Ice'	'Geh zum Eis'			'冰'		eureka_hydatos.js line#287
+'Switch Magia'	'Magia-Brett drehen'			'切换元素板'		eureka_hydatos.js line#292
+'Get to Fire'	'Geh zum Feuer'			'火'		eureka_hydatos.js line#306
+'Switch Magia'	'Magia-Brett drehen'			'切换元素板'		eureka_hydatos.js line#311
+'Dark Bracelets'	'Dunkle Armreife'			'黑光环'		eureka_hydatos.js line#466
+'Light Bracelets'	'Helle Armreife'			'白光环'		eureka_hydatos.js line#486
+'Orbs to Opposite Colors'	'Kugeln zu umgekehrter Farbe'			'连线去相反颜色'		eureka_hydatos.js line#628
+'Off the Platform'	'Weg von der Fläche'			'远离平台'		eureka_hydatos.js line#693
+'Spread for Bleed'	'Blutung verteilen'			'分散'		eureka_hydatos.js line#711
+'Go Far'	'Weit weg'			'远离'		eureka_hydatos.js line#728
+'Get Close'	'Nah dran'			'靠近'		eureka_hydatos.js line#774
+'Get Off'	'Weg da'			'远离平台'		eureka_hydatos.js line#825
+'Get Close'	'Nah dran'			'靠近'		eureka_hydatos.js line#843
+'Go Far'	'Weit weg'			'远离'		eureka_hydatos.js line#861
+'Next Spin: In or Out'	'Nächste Drehung: Rein oder raus'	'Tour suivant : Dedans/Dehors'		'下一转:内圈/外圈'		o10n.js line#36
+'Next Spin: Corners'	'Nächste Drehung: Ecken'	'Tour suivant : Plus'		'下一转:角落'		o10n.js line#53
+'Death From Below'	'Tod von unten'	'Désastre terrestre'		'地之灾厄'	'디버프 확인'	o10s.js line#55
+'Death From Above'	'Tod von oben'	'Désastre Céleste'		'天之灾厄'	'디버프 확인'	o10s.js line#69
+'Next Spin: Cardinals or Corners'	'Nächste Drehung: Kanten oder Ecken'	'Tour suivant : Cardinaux ou Coins'	'角かマーカー'	'下一转：靠边火角落'	'십자 / 대각선'	o10s.js line#125
+'Tank Tether'				'坦克接线远离人群'		o11n.js line#18
+'Left (then opposite)'	'Links (dann umgekehrt)'	'Gauche (puis Droite)'	'左 (零式)'	'左 (零式)'	'왼쪽으로 (바로 반대로)'	o11s.js line#147
+'Right (then opposite)'	'Rechts (dann umgekehrt)'	'Droite (puis Gauche)'	'右 (零式)'	'右 (零式)'	'오른쪽으로 (바로 반대로)'	o11s.js line#164
+'Opposite (Left)'	'Umgekehrt (Links)'	'Côté opposé (Gauche)'	'反対へ (左)'	'对面 (左)'	'오른쪽으로'	o11s.js line#182
+'Opposite (Right)'	'Umgekehrt (Rechts)'	'Côté opposé (Droite)'	'反対へ (右)'	'对面 (右)'	'왼쪽으로'	o11s.js line#200
+'Knockback'	'Rückstoß'	'Poussée'		'击退'		o12n.js line#15
+'Move bosses apart'	'Bosse auseinander ziehen'	'Ecartez les boss'		'分开boss'		o12n.js line#62
+'Attack Omega-M'	'Omega-M angreifen'	'Attaquez Oméga-M'		'攻击男性'		o12n.js line#109
+'Attack Omega-F'	'Omega-W angreifen'	'Attaquez Oméga-F'		'攻击女性'		o12n.js line#126
+'Don\'t Stack!'	'Nicht stacken!'	'Ne vous packez pas !'	'スタックするな！'	'分散站位！'	'쉐어 맞지 말것'	o12s.js line#42
+'Keep Bosses Apart'	'Bosse auseinander ziehen'	'Séparez les boss'	'ボス離して'	'拉开Boss'	'보스 떨어뜨리기'	o12s.js line#59
+'Move Bosses Together'	'Bosse zusammenziehen'	'Packez les boss'	'ボス重ねて'	'拉近Boss'	'보스 붙이기'	o12s.js line#76
+'Close Tethers'	'Nahe Verbindungen'	'Liens proches'	'ニアー'	'靠近连线'	'가까이 붙는 줄'	o12s.js line#315
+'Far Tethers'	'Entfernte Verbindungen'	'Liens éloignés'	'ファー'	'远离连线'	'멀리 떨어지는 줄'	o12s.js line#335
+'Defamation on YOU'	'Urteil auf DIR'	'#Médisance sur VOUS'	'サークルついた'	'严重错误：上溢'	'치명적오류:광역 8초'	o12s.js line#355
+'Blue Marker'	'Blauer Marker'	'Marqueur bleu'	'レイテントついた'	'蓝点名'	'잠재적오류 10초'	o12s.js line#375
+'Rot'	'Fäulnis'	'Pourriture'	'デグレードついた'	'红点名'	'치명적오류:전이 14초'	o12s.js line#395
+'Move out for Defamation'	'Rausgehen für Urteil'	'Ecartez-vous pour #médisance'	'サークル捨てる'	'离开人群传毒'	'잠재적 오류: 전이'	o12s.js line#502
+'Back Left'	'Hinten Links'	'Arrière gauche'	'左後ろ'	'左后'	'좌측 후방'	o12s.js line#569
+'Back Right'	'Hinten Rechts'	'Arrière droite'	'右後ろ'	'右后'	'우측 후방'	o12s.js line#586
+'Breath Wing: Be beside boss'	'Atemschwinge: Neben Boss gehen'			'站boss附近'		o1n.js line#39
+'DPS: Levitate'	'DDs hoch'			'DPS浮空'		o2s.js line#15
+'-100 Gs: Go north/south and look away'	'-100G: Nach Norden/Süden und wegschauen'			'前往南边\北边并背对boss'		o2s.js line#74
+'Unstable Gravity: Elevate and outside stack'	'Schwerkraftschwankung: Schweben und außen stacken'					o2s.js line#229
+'Mindjack: Right'	'Geistlenkung: Rechts'			'右'		o3s.js line#198
+'Mindjack: Forward'	'Geistlenkung: Vorwärts'			'前'		o3s.js line#215
+'Mindjack: Left'	'Geistlenkung: Links'			'左'		o3s.js line#232
+'Mindjack: Back'	'Geistlenkung: Zurück'			'后'		o3s.js line#249
+'The Queen\'s Waltz: Books'	'Tanz der Königin: Bücher'			'图书馆分格站位'		o3s.js line#297
+'The Queen\'s Waltz: Clock'	'Tanz der Königin: Uhr'			'万变水波'		o3s.js line#314
+'The Queen\'s Waltz: Crystal Square'	'Tanz der Königin: Kristallfeld'			'蓝地板'		o3s.js line#331
+'The Queen\'s Waltz: Tethers'	'Tanz der Königin: Ranken'			'先集中后扯线'		o3s.js line#348
+'Cleanse Doom soon'	'Reinige Verhängnis bald'					o4n.js line#24
+'Move around'	'Bewegen'					o4n.js line#57
+'Stand in the gap'	'In der Lücke stehen'					o4n.js line#91
+'Behind head--Avoid zombie breath'	'Hinter den Kopf - Vermeide den Zombie-Atem'					o4n.js line#105
+'Avoid black holes'	'Weiche den Schwarzen Löchern aus'					o4n.js line#118
+'Flare on YOU'	'Flare auf DIR'					o4n.js line#139
+'Vacuum Wave soon'	'Vakuumwelle bald'			'马上真空波'		o4s.js line#15
+'Fire III'	'Feuga'			'火三'		o4s.js line#45
+'Blizzard III'	'Eisga'			'冰三'		o4s.js line#59
+'Grand Cross Alpha: Go to middle'	'Supernova Alpha: In die Mitte'			'大十字阿尔法：去中间'		o4s.js line#643
+'Acceleration Bomb'	'Beschleunigungsbombe'			'加速度炸弹'		o4s.js line#759
+'shriek: get mid, look away'	'Schrei: Zur mitte und wegschauen'					o4s.js line#782
+'Beyond Death'	'Jenseis Des Jenseits'			'超越死亡'		o4s.js line#879
+'Almagest'	'Almagest'					o4s.js line#953
+'Light'	'Licht'	'Lumière'				o5n.js line#61
+'Wind'	'Wind'	'Vent'				o5n.js line#73
+'Drop AOEs Away'	'AoEs weglocken'	'Posez les AoE au loin'				o6n.js line#27
+'Hallowed Wind Stack'	'Heiliger Boden Wind'	'Packez vous dans le vent'	'隅でスタック'		'쉐어징 천무'	o6s.js line#36
+'Last Kiss on YOU'	'Letzter Kuss auf DIR'	'Baiser fatal sur VOUS'	'口づけ on YOU'		'죽음의 입맞춤 → 나'	o6s.js line#72
+'Last Kiss on YOU'	'Letzter Kuss auf DIR'	'Baiser fatal sur VOUS'	'口づけ on YOU'		'죽음의 입맞춤 → 나'	o6s.js line#100
+'Magitek Ray'	'Magitek-Laser'	'Rayon Magitek'				o7n.js line#19
+'Orb Marker'	'Orb Marker'	'Orbe'	'マーカー'		'원자 파동 징'	o7s.js line#133
+'Abandonment: stay middle'	'Verlassen: Bleib mittig'	'Isolement : restez au milieu'	'孤独: 内側へ'		'고독감: 중앙에 있기'	o7s.js line#214
+'Look At Statue'	'Statue anschauen'	'Regardez la statue'				o8n.js line#84
+'Look Away From Statue'	'Von Statue wegschauen'	'Ne regardez pas la statue'				o8n.js line#103
+'fire on YOU'	'Feuer auf DIR'	'Feu sur VOUS'				o8n.js line#130
+'True Thunder'	'Wahrer Blitz'	'Vraie foudre'				o8n.js line#155
+'Fake Thunder'	'Falscher Blitz'	'Fausse foudre'				o8n.js line#175
+'Fake Ice: Get out'	'Falsches Eis: Rausgehen'	'Fausse glace : Sortez'				o8n.js line#195
+'True Ice: Get in'	'Wahre Eis: Reingehen'	'Vraie glace: Rentrez dedans'				o8n.js line#215
+'Fake Ice: Get in'	'Falsches Eis: Reingehen'	'Fausse glace: Rentrez dedans'				o8n.js line#235
+'True Ice: Get out'	'Wahres Eis: Rausgehen'	'Vraie glace: Sortez'				o8n.js line#255
+'Past: Stack and Stay'	'Vergangenheit: Sammeln und Stehenbleiben'	'Passé : Stack et ne bougez plus'	'過去: スタックしてそのまま'		'과거: 맞고 가만히있기'	o8s.js line#101
+'Future: Stack and Through'	'Zukunft: Sammeln und Durchlaufen'	'Futur : Stack et traversez'	'未来: シェア後ボス通り抜ける'		'미래: 맞고 통과해가기'	o8s.js line#124
+'Past: Bait, then through'	'Vergangenheit : Anlocken und Durchlaufen'	'Passé : appâtez puis traversez'	'過去: 飛んできたら反対向ける'		'과거: 맞고, 이동'	o8s.js line#151
+'Future: Bait, then stay'	'Zukunft: Anlocken und Stehenbleiben'	'Futur : appâtez et ne bougez plus'	'未来: 飛んできたらそのまま'		'미래: 맞고, 가만히'	o8s.js line#178
+'Single Wing'	'Einzelner Flügel'	'Aile unique'	'片翼'		'한쪽 날개'	o8s.js line#263
+'Confusion: Go Outside'	'Konfusion: Nach außen'	'Confusion : Aller à l\'extérieur'	'混乱: 外へ'		'혼란: 바깥으로'	o8s.js line#375
+'Sleep: Go Inside'	'Schlaf: Zur Mitte'	'Sommeil : allez au centre'	'睡眠: 中へ'		'수면: 안으로'	o8s.js line#401
+'Orb Tethers'	'Kugel-Verbindungen'	'Attrapez les orbes'				o9n.js line#32
+'Hide Middle'	'Zur Mitte'	'Allez au centre'	'中央へ'	'中间躲避'	'중앙으로 모이기'	o9s.js line#263
+'Hide Middle'	'Zur Mitte'	'Allez au centre'	'中央へ'	'中间躲避'	'중앙으로 모이기'	o9s.js line#285
+'Stack Donut'	'Sammeln Donut'	'Packez-vous'	'スタック'	'集合放月环'	'도넛 쉐어'	o9s.js line#322
+'Stack Donut'	'Sammeln Donut'	'Packez-vous'	'スタック'	'集合放月环'	'도넛 쉐어'	o9s.js line#345
+'Stack Donut'	'Sammeln Donut'	'Packez-vous'	'スタック'	'集合放月环'	'도넛 쉐어'	o9s.js line#368
+'Die on next mechanic'	'An nächster Mechanik tödlichen Schaden nehmen'	'Mourrez sur la prochaine mécanique'	'次のギミックで死んでね'	'想办法找死'	'다음 기믹에 맞기 (디버프)'	o9s.js line#539
+'Stack with partner'	'Stacks verteilen'	'Packez-vous en binôme'		'与伙伴重合'	'파트너랑 모이기'	o9s.js line#571
+'Hit DPS with Water'	'töte deinen DPS'	'Tuez les DPS'	'水当てて'	'水环害死DPS'	'딜러 물 맞기'	o9s.js line#638
+'Distant Clap'	'Donnergrollen'	'Tonnerre Lointain'	'遠雷'	'远雷'		byakko-ex.js line#62
+'Provoke Boss'	'Boss abspotten'	'Provoquez !'	'挑発'	'挑衅'		byakko-ex.js line#88
+'Provoke Boss'	'Boss abspotten'	'Provoquez !'	'挑発'	'挑衅'		byakko-ex.js line#115
+'Drop bubble outside'	'Blase außen ablegen'	'Déposez à l\'extérieur'	'外にマーカーを置く'	'边缘放点名'		byakko-ex.js line#173
+'Pink bubble'	'Pinke Blase'	'Bulle violette'	'祟り目'	'泡泡'		byakko-ex.js line#199
+'Puddles on YOU'	'Pfützen auf DIR'	'Mare sur VOUS'	'自分に床範囲'	'点名'		byakko-ex.js line#220
+'Get away'	'Weg da'	'Eloignez-vous'	'離れる'	'远离'		byakko-ex.js line#241
+'Vrill + Knockback'	'Vril + Rückstoß'			'完全拒绝'		lakshmi-ex.js line#80
+'Vrill + Be Outside'	'Vril + Außen'			'完全吸引'		lakshmi-ex.js line#93
+'Vrill + Pair Up'	'Vril + Pärchen bilden'			完全惑乱		lakshmi-ex.js line#110
+'Mangle'	'Biss und Schweifhieb'			'去侧面'	'으깨기'	rathalos-ex.js line#21
+'Rush'	'Stürmen'			'龙车'	'돌진'	rathalos-ex.js line#35
+'Flaming Recoil'	'Flammenschlag vorne'			'去背面'	'반동 화염'	rathalos-ex.js line#49
+'Fire Breath on YOU'	'Feueratem auf DIR'			'火点名'	'화염 숨결 대상자'	rathalos-ex.js line#61
+'stack with your group'	'mit der Gruppe stacken'	'Packé avec votre groupe'	'グループ別にスタック'	'双组分摊'		seiryu-ex.js line#15
+'line stack'	'Linien-Stack'	'Packé en ligne'	'スタック'	'直线分摊'		seiryu-ex.js line#28
+'Grab Tether, Point Away'	'Verbindung nehmen und wegdrehen'	'Prenez le lien, pointez vers l\'extérieur'	'線取って外向ける'	'接线引导'		seiryu-ex.js line#43
+'Away From Tanks'	'Weg von den Tanks'	'Ecartez-vous des tanks'	'タンクから離れて'	'远离坦克'		seiryu-ex.js line#108
+'Stack for Puddle AOEs'	'Stacken (Pfützen)'	'Packez-vous pour l\'aoe'	'スタック'	'集合放置AOE'		seiryu-ex.js line#137
+'Pop Sprint'	'Sprinten'	'Sprintez'	'スプリント'	'冲冲冲'		seiryu-ex.js line#360
+'Ice: Stack and Stop'	'Eis: Stack und Stehenbleiben'			'冰地面：站一起和停止移动'		shinryu-ex.js line#115
+'Out of middle'	'Raus aus der Mitte'			'离开中间'		shinryu-ex.js line#132
+'Get in water'	'In\'s Wasser'			'进水圈'		shinryu-ex.js line#146
+'out of water'	'Raus aus dem Wasser'			'离开水圈'		shinryu-ex.js line#200
+'icicle, lean west'	'Eiszapfen, nach westen'			'冰柱，去左边'		shinryu-ex.js line#273
+'icicle, lean east'	'Eiszapfen, nach Osten'			'冰柱，去右边'		shinryu-ex.js line#286
+'Knockback, look for water'	'Rückstoß, nach Wasser schauen'			'找水圈'		shinryu-ex.js line#301
+'no more heals needed'	'keine Heilung mehr nötig'			'不需要更多奶了'		shinryu-ex.js line#321
+'Tail: Switch targets'	'Schweif: Zielwechsel'			'打尾巴'		shinryu-ex.js line#339
+'Heart: Switch targets'	'Herz: Ziel wechseln'			'打核心'		shinryu-ex.js line#361
+'avoid divebomb'	'Divebomb ausweichen'					shinryu-ex.js line#379
+'front cleave'	'Frontalcleave'			'离开正面'		shinryu-ex.js line#454
+'kill left first'	'linken Flügel zuerst'			'击杀左翼'		shinryu-ex.js line#474
+'kill right first'	'rechten Flügel zuerst'			'击杀右翼'		shinryu-ex.js line#497
+'tail marker on you'	'Schweifmarker auf dir'			'龙尾点名'		shinryu-ex.js line#547
+'look for cloud'	'Nach Wolke ausschau halten'			'寻找雷云'		susano-ex.js line#15
+'Stop'	'Stopp'			'停止动作'		susano-ex.js line#228
+'Tank Buster'	'Tankbuster'	'Tankbuster'		'死刑'		suzaku-ex.js line#49
+'Get Out'	'Raus da'	'Allez au bord extérieur'	'誘引'	'远离'		suzaku-ex.js line#64
+'Get In'	'Rein da'	'Allez au bord intérieur'	'拒絶'	'靠近'		suzaku-ex.js line#80
+'Move to Black!'	'In\'s schwarze laufen!'	'Bougez en zone noire !'		'踩黑色！'		tsukuyomi-ex.js line#242
+'Move to White!'	'In\'s weiße laufen!'	'Bougez en zone blanche !'		'踩白色！'		tsukuyomi-ex.js line#283
+'Run Marker Away'	'Mit Marker weglaufen'			'远离点名'		yojimbo.js line#16
+'Gekko Marker'	'Gekko Marker'					yojimbo.js line#35
+'Move!'	'Bewegen'	'Bougez'	'フェザーレイン'	'躲羽毛'	'이동'	ultima_weapon_ultimate.js line#16
+'Slipstream'	'Wirbelströmung'	'Sillage'	'スリップストリーム'	'螺旋气流'	'반동 기류'	ultima_weapon_ultimate.js line#65
+'Mistral on YOU'	'Mistral-Song'	'Chant Du Mistral'	'ミストラルソング'	'寒风之歌点名'	'삭풍 징'	ultima_weapon_ultimate.js line#80
+'Mistral Song'	'Mistral-Song'	'Chant Du Mistral'	'ミストラルソング'	'寒风之歌'	'삭풍 징'	ultima_weapon_ultimate.js line#96
+'Spiny Plume Add'	'Dorniger Federsturm'	'Plume Perforante'	'スパイニープルーム'	'刺羽出现'	'가시돋힌 깃털 등장'	ultima_weapon_ultimate.js line#116
+'Fetters on YOU'	'Fesseln auf DIR'	'Chaînes Infernales'	'自分に炎獄の鎖'	'火狱之锁点名'	'사슬 → 나'	ultima_weapon_ultimate.js line#137
+'Searing Wind on YOU'	'Versengen auf DIR'	'Rugissement Infernal'	'自分に灼熱'	'灼热咆哮点名'	'작열 → 나'	ultima_weapon_ultimate.js line#165
+'Stack'	'Stack'	'Stack'	'頭割り'	'集合'	'집합'	ultima_weapon_ultimate.js line#185
+'Gaol on YOU'	'Granitgefängnis'	'Geôle'	'ジェイル'	'石牢点名'	'감옥 → 나'	ultima_weapon_ultimate.js line#302
+'Garuda'	'Garuda'	'Garuda'	'ガルーダ'	'迦楼罗'	'가루다'	ultima_weapon_ultimate.js line#322
+'Ifrit'	'Ifrit'	'Ifrit'	'イフリート'	'伊弗利特'	'이프리트'	ultima_weapon_ultimate.js line#342
+'Titan'	'Titan'	'Titan'	'タイタン'	'泰坦'	'타이탄'	ultima_weapon_ultimate.js line#362
+'Twisters'	'Wirbelstürme'	'Tornades'	'大竜巻'	'大龙卷'	'회오리'	unending_coil_ultimate.js line#183
+'Hatch on YOU'	'Ausbrüten auf DIR'	'Éclosion sur VOUS'	'自分に魔力爆散'	'点名魔力爆散'	'나에게 마력연성'	unending_coil_ultimate.js line#239
+'Phase 2 Push'	'Phase 2 Stoß'	'Phase 2 poussée'	'フェーズ2'	'P2准备'	'트윈 페이즈2'	unending_coil_ultimate.js line#294
+'Phase 3 Push'	'Phase 3 Stoß'	'Phase 3 poussée'	'フェーズ3'	'P3准备'	'트윈 페이즈3'	unending_coil_ultimate.js line#312
+'Spread => In'	'Verteilen => Rein'	'Se dispercer => Dedans'	'散開 => 密着'	'分散 => 靠近'	'산개 => 안으로'	unending_coil_ultimate.js line#333
+'Spread => Out'	'Verteilen => Raus'	'Se dispercer => Dehors'	'散開 => 離れる'	'分散 => 远离'	'산개 => 밖으로'	unending_coil_ultimate.js line#352
+'Stack => In'	'Stack => Rein'	'Se rassembler => Dedans'	'頭割り => 密着'	'集合 => 靠近'	'쉐어 => 안으로'	unending_coil_ultimate.js line#371
+'Stack => Out'	'Stack => Raus'	'Se rassembler => Dehors'	'頭割り => 離れる'	'集合 => 远离'	'쉐어 => 밖으로'	unending_coil_ultimate.js line#389
+'In => Stack'	'Rein => Stack'	'Dedans => Se rassembler'	'密着 => 頭割り'	'靠近 => 集合'	'안으로 => 쉐어'	unending_coil_ultimate.js line#407
+'In => Out'	'Rein => Raus'	'Dedans => Dehors'	'密着 => 離れる'	'靠近 => 远离'	'안으로 => 밖으로'	unending_coil_ultimate.js line#425
+'Away from Tank => Stack'	'Weg vom Tank => Stack'	'S\'éloigner du tank => Se rassembler'	'タンクから離れる => 頭割り'	'远离坦克 => 集合'	'탱커 피하기 => 쉐어'	unending_coil_ultimate.js line#445
+'Spread => Away from Tank'	'Verteilen => Weg vom Tank'	'Se dispercer => S\'éloigner du Tank'	'散開 => タンクから離れる'	'分散 => 远离坦克'	'산개 => 탱커 피하기'	unending_coil_ultimate.js line#465
+'Spread => In'	'Verteilen => Rein'	'Se dispercer => Dedans'	'散開 => 密着'	'分散 => 靠近'	'산개 => 안으로'	unending_coil_ultimate.js line#484
+'In => Spread'	'Rein => Verteilen'	'Dedans => Se dispercer'	'密着 => 散開'	'靠近 => 分散'	'안으로 => 산개'	unending_coil_ultimate.js line#503
+'In => Out => Spread'	'Rein => Raus => Verteilen'	'Dedans => Dehors => Se dispercer'	'密着 => 離れる => 散開'	'靠近 => 远离 => 分散'	'안으로 => 밖으로 => 산개'	unending_coil_ultimate.js line#522
+'In => Spread => Stack'	'Rein => Verteilen => Stack'	'Dedans => Se dispercer => Se rassembler'	'密着 => 散開 => 頭割り'	'靠近 => 分散 => 集合'	'안으로 => 산개 => 쉐어'	unending_coil_ultimate.js line#541
+'Out => Stack => Spread'	'Raus => Stack => Verteilen'	'Dehors => Se rassembler => Se dispercer'	'離れる => 頭割り => 散開'	'远离 => 集合 => 分散'	'밖으로 => 쉐어 => 산개'	unending_coil_ultimate.js line#560
+'Out => Spread => Stack'	'Raus => Verteilen => Stack'	'Dehors => Se dispercer => Se rassembler'	'離れる => 散開 => 頭割り'	'远离 => 分散 => 集合'	'밖으로 => 산개 => 쉐어'	unending_coil_ultimate.js line#579
+'Thunder on YOU'	'Blitz auf DIR'	'Foudre sur VOUS'	'自分にサンダー'	'雷点名'	'나에게 번개'	unending_coil_ultimate.js line#601
+'Fire IN'	'Feuer INNEN'	'Feu EN DEDANS'	'ファイアボールは密着'	'火进'	'불 같이맞기'	unending_coil_ultimate.js line#764
+'Twisters'	'Wirbelstürme'	'Tornades'	'ツイスター'	'旋风冲'	'회오리'	unending_coil_ultimate.js line#1280
+'Gigaflare'	'Gigaflare'	'GigaBrasier'	'ギガフレア'	'十亿核爆'	'기가플레어'	unending_coil_ultimate.js line#1305
+'Megaflare Stack'	'Megaflare Stack'	'MegaBrasier rassemblement'	'メガフレア頭割り'	'百万核爆集合'	'기가플레어 쉐어'	unending_coil_ultimate.js line#1328
+'Earthshaker on YOU'	'Erdstoß auf Dir'	'Secousse sur VOUS'	'自分にアースシェイカー'	'地震点名'	'나에게 어스징'	unending_coil_ultimate.js line#1440﻿'Use Swords On Jails'	'Kristalle mit Schwert zerschlagen'	'Libérez les prisonniers avec les épées'			'감옥에 검 사용하기'	orbonne_monastery.js line#200
+﻿'Get In Bubble'	'Geh in die Blase'	'Allez dans une bulle'			'물방울 안으로'	royal_city_of_rabanastre.js line#46
+'Breathless: ' + (data.breathless + 1)	'Atemnot: ' + (data.breathless + 1)	'Suffocation :' + (data.breathless + 1)			'호흡곤란: ' + (data.breathless + 1)	royal_city_of_rabanastre.js line#56
+'bubble'	'blase'	'bulle'			'숨쉬어!'	royal_city_of_rabanastre.js line#66
+'Move'	'Bewegen'	'Bougez'			'움직이기'	royal_city_of_rabanastre.js line#265
+'Look Away'	'Wegschauen'	'Regardez ailleurs'			'바라보기'	royal_city_of_rabanastre.js line#288
+'Look Towards'	'Anschauen'	'Regardez le boss'			'바라보지 말기'	royal_city_of_rabanastre.js line#295
+﻿'Heal ' + data.shortName(matches.target) + ' soon'		'Soignez ' + data.shortName(matches.target) + ' bientôt'				temple_of_the_fist.js line#150
+﻿'wraiths: ' + data.wraithCount	'Geister: ' + data.wraithCount	'spectres: ' + data.wraithCount		'幽灵击杀: ' + data.wraithCount		eureka_anemos.js line#206
+﻿'Orb on YOU'	'Orb auf DIR'			'点名'		eureka_hydatos.js line#168
+'Away From Orb Marker'	'Weg vom Orb-Marker'			'远离点名'		eureka_hydatos.js line#177
+'Away From Light Circles'	'Weg von hellen Kreisen'			'远离白圈'		eureka_hydatos.js line#509
+'Away From Dark Circles'	'Weg von dunklen Kreisen'			'远离黑圈'		eureka_hydatos.js line#516
+'Stand By Dark Circles'	'Zu den dunklen Kreisen'			'靠近黑圈'		eureka_hydatos.js line#525
+'Stand By Light Circles'	'zu den hellen Kreisen'			'靠近白圈'		eureka_hydatos.js line#532
+'Dark'	'Dunkel'			'黑'		eureka_hydatos.js line#556
+'Dark'	'Dunkel'			'黑'		eureka_hydatos.js line#602
+'Black Hole ' + data.blackHoleCount + ' / 6'	'Schwarzes Loch ' + data.blackHoleCount + ' / 6'			'黑洞 ' + data.blackHoleCount + ' / 6'		eureka_hydatos.js line#663
+'Black Hole ' + data.blackHoleCount	'Schwarzes Loch ' + data.blackHoleCount			'黑洞 ' + data.blackHoleCount		eureka_hydatos.js line#670
+'Stack (if not tanking)'	'Stack (wenn nicht am tanken)'			'集合（如果没在坦怪）'		eureka_hydatos.js line#750
+'Stack Up'	'Stacken'			'集合'		eureka_hydatos.js line#756
+'Offtanks Get Orbs'	'Offtanks holt Kugeln'			'ST撞球'		eureka_hydatos.js line#796
+'Stack Away From Tank'	'Weg vom Tank stacken'			'远离坦克集合'		eureka_hydatos.js line#805
+﻿'Go To Cardinals'	'Geh zu den Kanten'	'Allez sur les points cardinaux'				o10n.js line#82
+'Go To Corners'	'In die Ecken'	'Allez dans les coins'				o10n.js line#108
+﻿'Fire Marker on YOU'	'Feuer Marker auf DIR'	'Feu sur VOUS'	'マーカー on YOU'	'火点名'	'불징 대상자'	o10s.js line#34
+﻿'Move (Left)'	'Bewegen (Links)'	'Bougez (Gauche)'				o11n.js line#100
+'Stay (Left)'	'Stehenbleiben (Links)'	'Restez ici (Gauche)'				o11n.js line#106
+'Stay (Right)'	'Stehenbleiben (Rechts)'	'Restez ici (Droite)'				o11n.js line#126
+'Move (Right)'	'Bewegen (Rechts)'	'Bougez (droite)'				o11n.js line#132
+﻿'Monitors Left'	'Monitore Links'	'Moniteur Gauche'		'探测左边'	'모니터 왼쪽'	o12s.js line#232
+'Dodge Left'	'Links ausweichen'	'Evitez à gauche'		'左侧躲闪'	'오른쪽으로'	o12s.js line#240
+'Monitors Right'	'Monitore Rechts'	'Moniteur Droite'		'探测右边'	'모니터 오른쪽'	o12s.js line#259
+'Dodge Right'	'Rechts ausweichen'	'Evitez à droite'		'右侧躲闪'	'왼쪽으로'	o12s.js line#267
+'Vuln on YOU'	'Verwundbarkeit auf DIR'	'Vulnérabilité sur VOUS'	'標的 on YOU'	'目标识别'	'표적식별 대상자'	o12s.js line#281
+'Vuln on ' + data.ShortName(matches.target)	'Verwundbarkeit auf ' + data.ShortName(matches.target)	'Vulnérabilité sur ' + data.ShortName(matches.target)	'標的 on ' + data.ShortName(matches.target)	'目标识别->' + data.ShortName(matches.target)	"'""' + data.ShortName(matches.target) + '"" 표적식별'"	o12s.js line#294
+'Short Stack on YOU'	'Kurzer Stack auf YOU'	'Marque courte sur VOUS'	'早シェア on YOU'	'短D'	'8초 치명적오류:분배(쉐어)'	o12s.js line#422
+'Long Stack on YOU'	'Langer Stack auf YOU'	'Marque longue sur VOUS'	'遅シェア on YOU'	'长D'	'13초 치명적오류:분배(쉐어)'	o12s.js line#431
+'Short Stack on ' + data.ShortName(matches.target)	'Kurzer Stack auf ' + data.ShortName(matches.target)	'Marque courte sur ' + data.ShortName(matches.target)	'早シェア on ' + data.ShortName(matches.target)	'短D->' + data.ShortName(matches.target)	"'""' + data.ShortName(matches.target) + '"" 쉐어'"	o12s.js line#450
+'No Marker'	'Kein Marker'	'Aucun marqueur'	'無職'	'闲D'	'무징 대상자'	o12s.js line#481
+'Stack on ' + data.ShortName(player)	'Stacken auf ' + data.ShortName(player)	'Packez-vous sur ' + data.ShortName(player)	data.ShortName(player) + 'とスタック'	'与' + data.ShortName(player) + '集合'	"'""' + data.ShortName(player) + '"" 쉐어'"	o12s.js line#534
+﻿'Earthquake: Levitate'	'Erdbeben: Schweben'					o2s.js line#103
+'Earthquake'	'Erdbeben'					o2s.js line#111
+'levitate'	'schweben'					o2s.js line#119
+'DPS up, T/H down'	'DDs hoch, T/H runter'					o2s.js line#144
+'Maniacal Probe: Tanks & Healers'	'Tentakeltanz: Tanks & Heiler'					o2s.js line#179
+'Maniacal Probe: DPS'	'Tentakeltanz: DDs'					o2s.js line#184
+'Maniacal Probe: Tanks & Healers'	'Tentakeltanz: Tanks & Heiler'					o2s.js line#193
+'Maniacal Probe: DPS'	'Tentakeltanz: DDs'					o2s.js line#198
+'dps probe'	'dee dees tentakel'					o2s.js line#206
+'tank heal probe'	'tenks heiler tentakel'					o2s.js line#211
+'6 Fulms Under: Levitate'	'Versinkend: Schweben'					o2s.js line#252
+'6 Fulms Under'	'Versinkend'					o2s.js line#260
+﻿'Stack on YOU'	'Stack auf DIR'					o3s.js line#64
+'Get out'	'Raus da'					o3s.js line#75
+'Stack on ' + data.holyTargets[1]	'Stack auf ' + data.holyTargets[1]					o3s.js line#81
+'others stack on ' + data.holyTargets[1]	'andere stacken auf ' + data.holyTargets[1]					o3s.js line#89
+'stack on you'	'stack auf dir'					o3s.js line#98
+'get out'	'raus da'					o3s.js line#105
+'stack on ' + data.holyTargets[1]	'stack auf ' + data.holyTargets[1]					o3s.js line#111
+'Go south: stack on YOU'	'Nach Süden: stack auf DIR'					o3s.js line#147
+'go north'	'nach norden'					o3s.js line#153
+'go south: stack on friend'	'nach süden: stack auf freund'					o3s.js line#158
+'stack outside'	'außen stacken'					o3s.js line#169
+'go north'	'nach norden'					o3s.js line#175
+'stack inside'	'innen stacken'					o3s.js line#180
+﻿'Stack on ' + data.ShortName(matches.target)	'Sammeln auf ' + data.ShortName(matches.target)					o4n.js line#154
+﻿'Thunder III: Tank buster'	'Blitzga: Tank buster'					o4s.js line#76
+'Thunder III'	'Blitzga'					o4s.js line#85
+'thunder'	'blitzga'					o4s.js line#92
+'Flare on you'	'Flare auf dir'					o4s.js line#148
+'Die on Inside'	'Innen sterben'					o4s.js line#364
+'Go Outside'	'Nach Außen'					o4s.js line#372
+'die in in in'	'sterben rein rein rein'					o4s.js line#380
+'out out out'	'raus raus raus'					o4s.js line#385
+'Die on Outside'	'Außen sterben'					o4s.js line#406
+'Go Inside'	'Rein gehen'					o4s.js line#414
+'die out out out'	'sterben raus raus raus'					o4s.js line#422
+'in in in'	'rein rein rein'					o4s.js line#427
+'Die On Right Blue'	'In Blauem rechts sterben'					o4s.js line#451
+'Die On Left Purple'	'In Pinkem links sterben'					o4s.js line#456
+'Die on color sides'	'Auf Farben sterben'					o4s.js line#461
+'Left On Purple'	'Links auf Pink'					o4s.js line#471
+'Right On Blue'	'Rechts auf Blau'					o4s.js line#476
+'Color sides'	'Farbige Seiten'					o4s.js line#481
+'Die On Left Blue'	'Auf Blauem links sterben'					o4s.js line#509
+'Die On Right Purple'	'Auf Pinkem rechts sterben'					o4s.js line#514
+'Die on color sides'	'Auf Farben sterben'					o4s.js line#519
+'Be Right On Purple'	'Rechts auf Pink'					o4s.js line#529
+'Be Left On Blue'	'Links auf Blau'					o4s.js line#534
+'Color sides'	'Farbige Seiten'					o4s.js line#539
+'Charge: be behind other tank'	'Aufladung: hinter anderen Tank'					o4s.js line#584
+'Charge: be in the very back'	'Aufladung: Ganz nach hinten'					o4s.js line#589
+'Charge: be in front!'	'Aufladung: Ganz nach vorn'					o4s.js line#595
+'Charge: be behind tanks'	'Aufladung: Hinter die Tanks'					o4s.js line#600
+'Double Attack'	'Doppelangriff'					o4s.js line#620
+'Double Attack: Get out'	'Doppelangriff: Raus da'					o4s.js line#625
+'Grand Cross Delta: Be in front of boss'	'Supernova Delta: Vor den Boss'					o4s.js line#662
+'Grand Cross Delta: Be on sides of boss'	'Supernova Delta: An die Seiten vom Boss'					o4s.js line#668
+'Grand Cross Delta: Inside boss'	'Supernvoa Delta: In den Boss'					o4s.js line#673
+'delta: be in front'	'delta: vor den boss'					o4s.js line#680
+'delta: be on sides'	'delta: an die seiten'					o4s.js line#686
+'delta: be inside boss'	'delta: in den boss'					o4s.js line#691
+'look away and stop'	'wegschauen und stehenbleiben'					o4s.js line#737
+'stop'	'Stopp'					o4s.js line#742
+'water on you'	'wasser auf dir'					o4s.js line#819
+'water: stack under neo'	'Wasser: Unter Neo stacken'					o4s.js line#824
+'Stack on ' + data.waterHealer	'Stack auf '+ data.waterHealer					o4s.js line#852
+'Stack on water'	'Bei Wasser stacken'					o4s.js line#857
+'Stack under boss on ' + data.waterHealer	'Unter Boss auf ' + data.waterHealer + ' stacken'					o4s.js line#904
+'Stack on water'	'Auf Wasser stacken'					o4s.js line#909
+'Flare on you'	'Flare auf dir'					o4s.js line#980
+'Light and Darkness: Stack'	'Licht und Dunkel: Stack'					o4s.js line#988
+'flare on you'	'fleer auf dir'					o4s.js line#996
+'stack'	'stek'					o4s.js line#1001
+﻿'Demonic Stone on YOU'	'Dämonischer Stein auf DIR'	'Pierre démoniaque sur VOUS'	'デモニックストーン on YOU'		'악령의 돌 장판 → 나'	o6s.js line#49
+﻿'Blue Marker on YOU'	'Aura-Kanone auf DIR'	'Marque Bleue sur VOUS'	'青玉 on YOU'		'파란징 → 나'	o7s.js line#154
+'Blue Marker on ' + data.ShortName(matches.target)	'Aura-Kanone auf ' + data.ShortName(matches.target)	'Marque Bleue sur ' + data.ShortName(matches.target)	'青玉 on ' + data.ShortName(matches.target)		'파란징 → ' + data.ShortName(matches.target)	o7s.js line#165
+'blue marker'	'aura-kanone'	'marque bleu'	'青玉ついた'		'파란징'	o7s.js line#176
+'Rot on you'	'Fäule auf DIR'	'Pourriture sur VOUS'	'ロット on YOU'		'에테르 → 나'	o7s.js line#239
+'Rot on ' + data.ShortName(matches.target)	'Fäule auf ' + data.ShortName(matches.target)	'Pourriture sur ' + data.ShortName(matches.target)	'ロット on ' + data.ShortName(matches.target)		'에테르 → ' + data.ShortName(matches.target)	o7s.js line#247
+'rot'	'fäule'	'pourriture'	'ロット'			o7s.js line#259
+﻿'Hyperdrive on YOU'	'Hyperantrieb auf DIR'	'Colonne de feu sur VOUS'				o8n.js line#21
+'Hyperdrive on ' + data.ShortName(matches.target)	'Hyperantrieb auf ' + data.ShortName(matches.target)	'Colonne de feu sur ' + data.ShortName(matches.target)				o8n.js line#28
+'buster'	'hyperantrieb'	'Colonne de feu'				o8n.js line#37
+﻿'Wings: Be Near/Far'	'Schwingen: Nah/Fern'	'Ailes : être près/loin'	'翼: めり込む/離れる'		'양날개: 가까이/멀리'	o8s.js line#216
+'Max Melee: Avoid Tanks'	'Max Nahkampf: Weg von den Tanks'	'Max Mêlée : éloignez-vous des Tanks'	'近接最大レンジ タンクから離れて'		'칼끝딜: 탱커 피하기'	o8s.js line#227
+'wings'	'schwingen'	'Ailes, être près ou loin'	'翼'		'양날개'	o8s.js line#238
+'max melee'	'max nahkampf'	'Max mêlée éloignez vous des tanks'	'最大レンジ'		'칼끝딜'	o8s.js line#246
+'Embrace on YOU'	'Umarmung auf DIR'	'Étreinte sur VOUS'	'双腕 on YOU'		'종말의 포옹 → 나'	o8s.js line#283
+'Embrace on ' + data.ShortName(matches.target)	'Umarmung auf ' + data.ShortName(matches.target)	'Étreinte sur ' + data.ShortName(matches.target)	'双腕 on ' + data.ShortName(matches.target)		'종말의 포옹 → ' + data.ShortName(matches.target)	o8s.js line#296
+'embrace'	'umarmung'	'Étreinte'	'双腕'		'종말의 포옹'	o8s.js line#307
+'hyperdrive'	'hyperantrieb'	'Colonne de feu'	'ハイパードライブ'		'하이퍼드라이브'	o8s.js line#354
+﻿'Die on Front/Back -> Sides'	'Stirb Vorne/Hinten -> Seiten'	'Devant/Derrière puis Côtés'	'縦 -> 横で死ぬ'	'死：前后 -> 左右'	'앞뒤 -> 양옆 (디버프)'	o9s.js line#33
+'Sides -> Front/Back'	'Seiten -> Vorne/Hinten'	'Côtés puis Devant/Derrière'	'横 -> 縦'	'左右 -> 前后'	'양옆 -> 앞뒤'	o9s.js line#45
+'die on back'	'hinten dran'	'aller derrière'	'縦から'	'前后找死'	'뒤에서 맞기 (디버프)'	o9s.js line#57
+'go to sides'	'an die Seiten'	'aller sur les cotés'	'横から'	'左右闪避'	'양옆으로'	o9s.js line#66
+'Die on Sides -> Front/Back'	'Stirb an Seiten -> Vorne/Hinten'	'Devant/Derrière puis Côtés'	'横 -> 縦で死ぬ'	'死：左右 -> 前后'	'양옆 -> 앞뒤 (디버프)'	o9s.js line#86
+'Front/Back -> Sides'	'Vorne/Hinten -> Seiten'	'Devant/Derrière puis Côtés'	'縦 -> 横'	'前后 -> 左右'	'앞뒤 -> 양옆'	o9s.js line#98
+'die on sides'	'an die Seiten'	'aller sur les cotés'	'横から'	'左右找死'	'양옆 (디버프)'	o9s.js line#110
+'go to back'	'hinten dran'	'aller derrière'	'縦から'	'前后闪避'	'뒤로 이동'	o9s.js line#119
+'Spread'	'Verteilen'	'Ecartez-vous'	'散開'	'分散'	'산개'	o9s.js line#209
+'Spread and Stay'	'Verteilen und bleiben'	'Ecartez-vous et restez'	'散開して待機'	'分散并停留'	'산개하고 가만히'	o9s.js line#218
+'Stack and Stay Out'	'Stack und Bleiben'	'Packez-vous et restez'	'中央に集合'	'中间集合'	'산개하고 바깥에 있기'	o9s.js line#228
+'Drop Outside'	'Gehe Nord / Süd'	'Allez au Nord/Sud'	'メテオ捨てて'	'远离放点名'	'바깥으로 빼기'	o9s.js line#385
+'Drop Outside + Knockback'	'Geh nächste Ecke nah am Tornado'	'Déposez dans les coins'	'メテオ捨てて + ノックバック'	'远离放点名 + 冲回人群'	'바깥으로 빼기 + 넉백'	o9s.js line#394
+'Back to Tornado'	'Rücken zum Tornado'	'Regardez vers l\'extérieur'		'背对龙卷风'	'토네이도 뒤돌기'	o9s.js line#459
+'Face the Tornado'	'Zum Tornado hin'	'Regardez la tornade'		'面对龙卷风'	'토네이도 바라보기'	o9s.js line#468
+'Heal All to Full'	'Alle vollheilen'	'Soignez tout le monde full vie'	'HP戻して'	'奶满全队'	'전원 체력 풀피로'	o9s.js line#509
+'Heal Tanks/Healers to full'	'Tanks/Heiler vollheilen'	'Soignez Heals/Tanks full vie'	'HP戻して'	'奶满T奶'	'탱/힐 체력 풀피로'	o9s.js line#518
+'Back to DPS'	'Rücken zum DPS'	'Dos au DPS'	'DPSの後ろへ'	'背对DPS'	'딜러한테서 뒤돌기'	o9s.js line#610
+﻿'Tank LB NOW'	'JETZT Tank LB'	'LB Tank maintenant !'	'今タンクLB'	'坦克LB'		byakko-ex.js line#157
+'Tiger Add'	'Tiger Add'	'Add Tigre'	'虎分離'	'虎分离'		byakko-ex.js line#266
+'Stack #' + data.stakeCount	'Stack #' + data.stakeCount	'Stack #' + data.stakeCount		'集合 #' + data.stakeCount		byakko-ex.js line#311
+﻿'Vrill + Stack on YOU'	'Vril + Stack auf DIR'					lakshmi-ex.js line#127
+'Vrill + Stack'	'Vril + Stack'					lakshmi-ex.js line#132
+'vrill and stack'	'vril und stek'					lakshmi-ex.js line#154
+'Vrill for AOE'	'Vril fuer Flaechenangriff'					lakshmi-ex.js line#175
+(data.chanchala ? 'Vrill + ' : '') + 'Cleave on YOU'	(data.chanchala ? 'Vril + ' : '') + 'Cleave auf DIR'					lakshmi-ex.js line#189
+(data.chanchala ? 'Vrill + ' : '') + 'Cross Marker'	(data.chanchala ? 'Vril + ' : '') + 'Kreuz-Marker'					lakshmi-ex.js line#202
+(data.chanchala ? 'Vrill + ' : '') + 'Flower Marker'	(data.chanchala ? 'Vril + ' : '') + 'Blumen-Marker'					lakshmi-ex.js line#215
+﻿'Tank Swap'	'Tankwechsel'	'Tank Swap'	'スイッチ'	'换T'		seiryu-ex.js line#75
+'Swap, then Buster'	'Tankwechsel, danach Tankbuster'	'Swap puis tankbuster'	'スイッチ後強攻撃'	'换T+死刑'		seiryu-ex.js line#84
+'Spread (dps get towers)'	'Verteilen (nicht in den Turm)'	'Ecartez-vous (pas sur la tour)'	'散開 (DPSが塔)'	'分散（DPS踩塔）'		seiryu-ex.js line#163
+'Spread (tanks/healers get towers)'	'Verteilen (nicht in den Turm)'	'Ecartez-vous (pas sur la tour)'	'散開 (タンクヒラが塔)'	'分散（坦克/治疗踩塔）'		seiryu-ex.js line#171
+'Get Tower (tank/healer towers)'	'In den Turm'	'Sur votre tour'	'塔 (タンクヒラが塔)'	'踩塔（坦克/治疗踩塔）'		seiryu-ex.js line#190
+'Get Tower (dps towers)'	'In den Turm'	'Sur votre tour'	'塔 (DPSが塔)'	'踩塔（DPS踩塔）'		seiryu-ex.js line#198
+'Go To Snakes'	'Zu den Schlangen'	'Allez vers les serpents'	'蛇側へ'	'靠近蛇蛇'		seiryu-ex.js line#237
+'Out of Middle, Toward Snakes'	'Raus aus der Mitte, Zu den Schlangen'	'Pas au centre, du côté des serpents'	'真ん中からずれて蛇向いて'	'靠近中心，面向蛇蛇'		seiryu-ex.js line#245
+'Stack South'	'Im Süden stacken'	'Packez-vous au sud'	'南でスタック'	'南侧集合'		seiryu-ex.js line#280
+'Stack if no tether'	'Stacken, wenn keine Verbindung'	'Packez-vous si pas de lien'	'線無しはスタック'	'未连线则集合'		seiryu-ex.js line#288
+﻿'Akh Morn on YOU'	'Akh Morn auf DIR'					shinryu-ex.js line#82
+'Akh Morn on ' + matches.target	'Akh Morn auf ' + matches.target					shinryu-ex.js line#87
+'Akh Rhai: spread and move'	'Akh Rhai: Verteilen und bewegen'					shinryu-ex.js line#97
+'stop to get frozen'	'Stopp! Einfrieren lassen'					shinryu-ex.js line#168
+'Stack in water'	'In Wasser stacken'					shinryu-ex.js line#173
+'stop to get frozen'	'Stopp! Einfrieren lassen'					shinryu-ex.js line#180
+'water'	'Wasser'					shinryu-ex.js line#185
+'bait bolt, keep moving'	'Blitz ködern, weiterbewegen'					shinryu-ex.js line#216
+'Spread out, no water'	'Verteilen und nicht in\'s Wasser'					shinryu-ex.js line#221
+'bait bolt, keep moving'	'Blitz ködern, weiterbewegen'					shinryu-ex.js line#228
+'levinbolt'	'Blitz'					shinryu-ex.js line#233
+'move away'	'wegbewegen'					shinryu-ex.js line#250
+'move away'	'weckbewegen'					shinryu-ex.js line#258
+'Death Sentence on YOU'	'Todesurteil auf DIR'					shinryu-ex.js line#398
+'Death Sentence on ' + matches.target	'Todesurteil auf ' + matches.target					shinryu-ex.js line#403
+'Death Sentence on ' + matches.target	'Todesurteil auf ' + matches.target					shinryu-ex.js line#411
+'Death Sentence'	'Todesurteil'					shinryu-ex.js line#419
+'break tethers then stack'	'Kette zerreissen, dann stack'					shinryu-ex.js line#518
+'break tethers'	'Ketten zerreissen'					shinryu-ex.js line#523
+'break tethers then stack'	'Kette zerreissen, dann stack'					shinryu-ex.js line#530
+'break tethers'	'Ketten zerreissen'					shinryu-ex.js line#535
+'earthshaker on you'	'Erdstoss auf dir'					shinryu-ex.js line#566
+'avoid earthshakers'	'Stöße ausweichen'					shinryu-ex.js line#574
+'avoid shakers'	'Stöße ausweichen'					shinryu-ex.js line#582
+'earthshaker'	'erdstoß'					shinryu-ex.js line#587
+﻿'tank buster'	'tenkbasta'					susano-ex.js line#112
+'Knockback on you (cloud)'	'Rückstoss auf Dir (Wolke)'					susano-ex.js line#128
+'Knockback + dice (STOP)'	'Rückstoss + Würfel (STOPP)'					susano-ex.js line#133
+'Knockback on YOU'	'Rückstoß auf DIR'					susano-ex.js line#138
+'knockback with cloud'	'Rückstoß mit wolke'					susano-ex.js line#145
+'Knockback with dice'	'Rückstoß mit Würfel'					susano-ex.js line#150
+'Levinbolt on you (cloud)'	'Blitz auf Dir (Wolke)'					susano-ex.js line#169
+'Levinbolt on you'	'Blitz auf dir'					susano-ex.js line#174
+'bolt with cloud'	'blitz mit wolke'					susano-ex.js line#181
+'bolt'	'blitz'					susano-ex.js line#186
+'Stun: ' + matches.target	'Paralyse ' + matches.target					susano-ex.js line#207
+﻿'Tank Buster on YOU'	'Tankbuster auf DIR'	'Tankbuster sur VOUS'		'死刑减伤'		suzaku-ex.js line#21
+'Buster on ' + data.ShortName(matches.target)	'Tankbuster auf ' + data.ShortName(matches.target)	'Tankbuster sur ' + data.ShortName(matches.target)		'死刑->' + data.ShortName(matches.target)		suzaku-ex.js line#29
+﻿'Tank Swap!'	'Tankwechsel!'	'Tank swap !'		'换T！'		tsukuyomi-ex.js line#43
+'Get out of front'	'Weg von vorn'	'Ne restez pas devant !'		'远离正面'		tsukuyomi-ex.js line#72
+'Left + ' + data.moonInOut	'Links + ' + data.moonInOut	'Gauche + ' + data.moonInOut		'左边 + ' + data.moonInOut		tsukuyomi-ex.js line#135
+'Right + ' + data.moonInOut	'Rechts + ' + data.moonInOut	'Droite + ' + data.moonInOut		'右边 + ' + data.moonInOut		tsukuyomi-ex.js line#152
+﻿data.ShortName(matches.target) + ' died'	data.ShortName(matches.target) + ' gestorben'			data.ShortName(matches.target) + ' 死亡'	data.ShortName(matches.target) + ' 죽음'	ultima_weapon_ultimate.js line#270
+﻿'Hatch: ' + hatches	'Ausbrüten: ' + hatches	'Éclosion: ' + hatches	'魔力爆散' + hatches	'魔力爆散' + hatches	'마력연성: ' + hatches	unending_coil_ultimate.js line#267
+'Doom #1 on YOU'	'Verhängnis #1 auf DIR'	'Glas #1 sur VOUS'	'自分に一番目死の宣告'	'死宣一号点名'	'죽음의 선고 1번'	unending_coil_ultimate.js line#647
+'Doom #2 on YOU'	'Verhängnis #2 auf DIR'	'Glas #2 sur VOUS'	'自分に二番目死の宣告'	'死宣二号点名'	'죽음의 선고 2번'	unending_coil_ultimate.js line#657
+'Doom #3 on YOU'	'Verhängnis #3 auf DIR'	'Glas #3 sur VOUS'	'自分に三番目死の宣告'	'死宣三号点名'	'죽음의 선고 3번'	unending_coil_ultimate.js line#666
+'Cleanse #' + data.doomCount + ': ' + data.ShortName(name)	'Medica #' + data.doomCount + ': ' + data.ShortName(name)	'Purifié #' + data.doomCount + ': ' + data.ShortName(name)	'解除に番目' + data.doomCount + ': ' + data.ShortName(name)	'解除死宣 #' + data.doomCount + ': ' + data.ShortName(name)	'선고 해제 ' + data.doomCount + ': ' + data.ShortName(name)	unending_coil_ultimate.js line#743
+'Fire OUT: Be in it'	'Feuer AUßEN: Drin sein'	'Feu EN DEHORS : Allez dessus'	'ファイアボールは離れる: 自分に密着'	'火出，踩火'	'불 대상자 밖으로: 나는 같이 맞기'	unending_coil_ultimate.js line#799
+'Fire OUT'	'Feuer AUßEN'	'Feu EN DEHORS'	'ファイアボールは離れる'	'火出'	'불 대상자 밖으로'	unending_coil_ultimate.js line#811
+'fire out; go with'	'feuer außen; mitgehen'	'Feu en dehors; y allez'	'ファイアボール離れる: 自分に密着'	'火出，分摊'	'밖에서 불 같이 맞기'	unending_coil_ultimate.js line#823
+'fire out'	'feuer außen'	'Feu en dehors'	'ファイアボール離れる'	'火出'	'불 대상자 밖으로'	unending_coil_ultimate.js line#832
+'Fire IN: AVOID!'	'Feuer INNEN: AUSWEICHEN!'	'Feu EN DEDANS : L\'ÉVITER !'	'ファイアボールは密着: 自分に離れる'	'火进：躲避！'	'불 같이맞기: 나는 피하기'	unending_coil_ultimate.js line#860
+'Fire IN' + str	'Feuer INNEN'	'Feu EN DEDANS' + str	'ファイアボールは密着'	'火进'	'불 같이맞기'	unending_coil_ultimate.js line#889
+'avoid fire in'	'feuer innen ausweichen'	'Éviter le feu en dedans'	'ファイアボール密着: 自分に離れる'	'躲避火进'	'불 같이맞으면 안됨'	unending_coil_ultimate.js line#900
+'fire in'	'feuer innen'	'Feu en dedans'	'ファイアボール密着'	'火进'	'불 같이맞기'	unending_coil_ultimate.js line#909
+'Fire IN: AVOID!'	'Feuer INNEN: AUSWEICHEN!'	'Feu EN DEDANS : L\'ÉVITER !'	'ファイアボールは密着: 自分に離れる'	'火进：躲避！'	'불 같이맞기: 나는 피하기'	unending_coil_ultimate.js line#946
+'Marks: ' + data.naelMarks.join(', ') + (data.wideThirdDive ? ' (WIDE)' : '')	'Markierungen : ' + data.naelMarks.join(', ') + (data.wideThirdDive ? ' (GROß)' : '')	'Marque : ' + data.naelMarks.join(', ') + (data.wideThirdDive ? ' (LARGE)' : '')	'マーカー: ' + data.naelMarks.join(', ') + (data.wideThirdDive ? ' (広)' : '')	'标记: ' + data.naelMarks.join(', ') + (data.wideThirdDive ? ' (大)' : '')	'징: ' + data.naelMarks.join(', ') + (data.wideThirdDive ? ' (넓음)' : '')	unending_coil_ultimate.js line#1045
+'Go To ' + marker + ' (in ' + dir + ')'	'Gehe zu ' + marker + ' (im ' + dir + ')'	'Aller en ' + marker + ' (au ' + dir + ')'	marker + 'に行く' + ' (あと ' + dir + '秒)'	'冲向' + marker + ' (剩余 ' + dir + '秒)'	marker + '로 이동' + ' (그리고 ' + dir + '로)'	unending_coil_ultimate.js line#1067
+'Go To ' + ['A', 'B', 'C'][data.naelDiveMarkerCount]	'Gehe zu ' + ['A', 'B', 'C'][data.naelDiveMarkerCount]	'Aller en ' + ['A', 'B', 'C'][data.naelDiveMarkerCount]	['A', 'B', 'C'][data.naelDiveMarkerCount] + '行くよ'	'前往 ' + ['A', 'B', 'C'][data.naelDiveMarkerCount]	['A', 'B', 'C'][data.naelDiveMarkerCount] + '로 이동'	unending_coil_ultimate.js line#1080
+'Dive #' + num + ': ' + data.ShortName(matches.target)	'Sturz #' + num + ' : ' + data.ShortName(matches.target)	'Bombardement #' + num + ' : ' + data.ShortName(matches.target)	'ダイブ' + num + '番目:' + data.ShortName(matches.target)	'冲 #' + num + ': ' + data.ShortName(matches.target)	'카탈 ' + num + ': ' + data.ShortName(matches.target)	unending_coil_ultimate.js line#1101
+data.octetMarker.length + ': ' + data.ShortName(matches.target) + ' (nael)'	data.octetMarker.length + ': ' + data.ShortName(matches.target) + ' (nael)'	data.octetMarker.length + ' : ' + data.ShortName(matches.target) + ' (nael)'	data.octetMarker.length + ': ' + data.ShortName(matches.target) + ' (ネール)'	data.octetMarker.length + ': ' + data.ShortName(matches.target) + ' (奈尔)'	data.octetMarker.length + ': ' + data.ShortName(matches.target) + ' (넬)'	unending_coil_ultimate.js line#1174
+data.octetMarker.length + ': ' + data.ShortName(matches.target)	data.octetMarker.length + ': ' + data.ShortName(matches.target)	data.octetMarker.length + ' : ' + data.ShortName(matches.target)			data.octetMarker.length + ': ' + data.ShortName(matches.target)	unending_coil_ultimate.js line#1191
+data.octetMarker.length + ': ' + data.ShortName(matches.target) + ' (baha)'	data.octetMarker.length + ': ' + data.ShortName(matches.target) + ' (baha)'	data.octetMarker.length + ' : ' + data.ShortName(matches.target) + ' (baha)'	data.octetMarker.length + ': ' + data.ShortName(matches.target) + ' (バハ)'	data.octetMarker.length + ': ' + data.ShortName(matches.target) + ' (巴哈)'	data.octetMarker.length + ': ' + data.ShortName(matches.target) + ' (바하)'	unending_coil_ultimate.js line#1206
+'YOU Stack for Twin'	'DU stackst für Twintania'	'VOUS devez appâter Gémellia'	'自分にタニアには頭割り'	'双塔集合'	'내가 트윈징 대상자'	unending_coil_ultimate.js line#1225
+'8: ??? (twin)'	'8: ??? (Twintania)'	'8 : ??? (Gémellia)'	'8: ??? (ツインタニア)'	'8: ??? (双塔)'	'8: ??? (트윈타니아)'	unending_coil_ultimate.js line#1237
+'8: ' + data.ShortName(data.lastOctetMarker) + ' (twin)'	'8: ' + data.ShortName(data.lastOctetMarker) + ' (Twintania)'	'8 : ' + data.ShortName(data.lastOctetMarker) + ' (Gémellia)'	'8: ' + data.ShortName(data.lastOctetMarker) + ' (ツインタニア)'	'8: ' + data.ShortName(data.lastOctetMarker) + ' (双塔)'	'8: ' + data.ShortName(data.lastOctetMarker) + ' (트윈타니아)'	unending_coil_ultimate.js line#1249
+'stack for twin'	'stek für twintania'	'Se rassembler pour appâter Gémellia'	'頭割り'	'双塔集合'	'트윈타니아 옆에 서기'	unending_coil_ultimate.js line#1261
+'Tower, bait hypernova'	'Turm, Hypernova ködern'	'Tour, appâter Supernova'	'タワーやスーパーノヴァ'	'踩塔, 引导超新星'	'초신성 피하고 기둥 밟기'	unending_coil_ultimate.js line#1363
+'Bait Twin, then tower'	'Twintania in Turm locken'	'Appâter Gémellia, puis tour'	'タニアダイブやタワー'	'引导双塔, 踩塔'	'트윈타니아 유도 후 기둥 밟기'	unending_coil_ultimate.js line#1373
+'Get in a far tower'	'Geh in entfernten Turm'	'Aller dans une tour lointaine'	'遠いタワー'	'踩远塔'	'기둥 밟기'	unending_coil_ultimate.js line#1382
+'tower'	'Turm'	'Tour'	'タワー'	'塔'	'기둥'	unending_coil_ultimate.js line#1396
+twin + ' (twin) has megaflare'				twin + ' (双塔) 带百万核爆'	twin + ' (트윈 징 대상자) => 쉐어'	unending_coil_ultimate.js line#1420
+twin + ' (twin) needs tower'				twin + ' (双塔) 需要踩塔'	twin + ' (트윈 징 대상자) => 기둥'	unending_coil_ultimate.js line#1426
+'No shaker; stack south.'	'Kein Erdstoß; im süden sammeln'	'Pas de Secousse; se rassembler au Sud.'	'シェイカーない；頭割りで南'	'不地震，南侧集合'	'징 없음, 모여서 쉐어'	unending_coil_ultimate.js line#1489
+'Stack on safe spot'	'In Sicherheit steken'	'Se rassembler au point sauf'	'頭割りで安全'	'安全点集合'	'안전장소에 모이기'	unending_coil_ultimate.js line#1501
+'tether'	'Verbindung'	'Lien'	'線'	'线'	'줄'	unending_coil_ultimate.js line#1518
+'stack south'	'stek im süden'	'Se rassembler au sud'	'頭割りで南'	'南侧集合'	'모여서 쉐어'	unending_coil_ultimate.js line#1528
+'safe spot'	'in sicherheit'	'Point sauf'	'安全'	'安全点'	'안전장소로'	unending_coil_ultimate.js line#1540
+str + ' (YOU)'	str + ' (DU)'	str + ' (VOUS)'	'モーン・アファー' + data.mornAfahCount + '回' + ' (自分)'	'无尽顿悟 #' + data.mornAfahCount	'몬 아파 ' + data.mornAfahCount + ' (나에게)'	unending_coil_ultimate.js line#1572
+str + ' (' + data.ShortName(matches.target) + ')'	str + ' (' + data.ShortName(matches.target) + ')'	str + ' (' + data.ShortName(matches.target) + ')'	'モーン・アファー' + data.mornAfahCount + '回' + ' (' + data.ShortName(matches.target) + ')'	'无尽顿悟 #' + data.mornAfahCount	'몬 아파 ' + data.mornAfahCount + ' (' + data.ShortName(matches.target) + ')'	unending_coil_ultimate.js line#1581
+'morn afah ' + data.ShortName(matches.target)				'无尽顿悟 ' + data.ShortName(matches.target)	'몬 아파 ' + data.mornAfahCount	unending_coil_ultimate.js line#1591
+'Akh Morn #' + data.akhMornCount				'死亡轮回 #' + data.akhMornCount	'아크 몬 ' + data.akhMornCount	unending_coil_ultimate.js line#1611
+'Exaflare #' + data.exaflareCount	'Exaflare #' + data.exaflareCount	'ExaBrasier #' + data.exaflareCount	'エクサフレア' + data.exaflareCount + '回'	'百京核爆 #' + data.exaflareCount	'엑사플레어 ' + data.exaflareCount	unending_coil_ultimate.js line#1631
+'exaflare ' + data.exaflareCount	'Exafleer '+ data.exaflareCount	'Exabrasier '+ data.exaflareCount	'エクサフレア' + data.exaflareCount	'百京核爆 ' + data.exaflareCount		unending_coil_ultimate.js line#1641

@@ -1,0 +1,376 @@
+﻿en	de	fr	ja	cn	ko	lineno
+﻿'Move to South Edge'	'zur südlichen Kante'	'Allez au Sud'		'前往南侧边缘'	'남쪽으로'	the_copied_factory.js line#40
+'Look for Lasers'	'Pass auf die Laser auf'	'Attention aux lasers'		'小心激光'	'레이저 확인'	the_copied_factory.js line#79
+'Dodge Moving Circle'	'Bewegenden Kreisen ausweichen'	'Evitez les cercles mouvants'		'躲避移动圆圈'	'시계방향 회전하면서 나오는 장판 피하기'	the_copied_factory.js line#142
+'Look Behind For Flamethrowers'	'Flammenwerfer hinter dir'	'Regardez derrière (lance-flammes)'		'观察后方放火'	'뒤에서 불 나오는 곳 확인'	the_copied_factory.js line#160
+'Dodge Falling Walls'	'Den fallenden Wände asuweichen'	'Eviter les murs tombants'		'躲避倒塌墙壁'	'넘어지는 벽 피하기'	the_copied_factory.js line#192
+'Spread Tethers'	'Verbindungen Verteilen'	'Ecartez les liens'		'散开扯断连线'	'산개 선 (탱 혼자도 가능)'	the_copied_factory.js line#208
+'Dodge Electric Floor'	'Elektrischem Boden ausweichen'	'Evitez le sol électrifié'		'躲避带电地板'	'바닥 장판 피하기'	the_copied_factory.js line#242
+'Conveyor Belts'	'Förderbänder'	'Tapis roulant'		'输送带'	'컨베이어 벨트'	the_copied_factory.js line#257
+'Oil Vats'	'Ölbehälter'	'Cuves à huile'		'油桶'	'뚫린 바닥 피하기'	the_copied_factory.js line#274
+'Oil Vats'	'Ölbehälter'	'Cuves à huile'		'油桶'	'뚫린 바닥 피하기'	the_copied_factory.js line#292
+'Exploder on YOU'	'Explosion auf DIR'	'Explosion sur VOUS'		'自爆点名'	'폭발 징'	the_copied_factory.js line#310
+'Front and Center'	'Vorne und Mitte'	'Devant et au centre'		'前方中间'	'앞으로 => 중앙으로'	the_copied_factory.js line#363
+'Back and Sides'	'Hinten und Seiten'	'Arrière et côtés'		'后方两侧'	'뒤로 => 양옆으로'	the_copied_factory.js line#378
+'Kill Claws'	'Klauen töten'	'Tuez les pinces'		'杀掉爪子'	'양옆 톱 처리'	the_copied_factory.js line#393
+'Go Sides (Near Front)'	'Zu den Seiten (Nahe der Front)'	'Allez sur les côtés (vers l\'avant)'		'两侧（靠近前方）'	'양옆으로 (앞 근처)'	the_copied_factory.js line#431
+'Get Towers'	'Türme nehmen'	'Prenez les tours'		'踩塔'	'장판 하나씩 들어가기'	the_copied_factory.js line#447
+'Adds (Ignore Small)'	'Adds (kleine ignorieren)'	'Adds (ignorez les petits)'		'小怪（忽略小的）'	'쫄 나옴 (작은건 무시)'	the_copied_factory.js line#493
+'Front and Center'	'Vorne und Mitte'	'Devant et au centre'		'前方中间'	'앞 중앙'	the_copied_factory.js line#508
+'Look For Wall Saws'	'Halt nach den kleinen Sägen ausschau'	'Repérez les scies'		'观察墙壁'	'양옆 톱 확인'	the_copied_factory.js line#524
+'Laser Buster on YOU'	'Laser Tankbuster auf DIR'	'Laser Tankbuster sur VOUS'		'激光点名'	'레이저 대상자'	the_copied_factory.js line#579
+'Dodge Overhead Saws'	'Sägen über dem Kopf ausweichen'	'Evitez la scie au-dessus de vous'		'躲避头顶锯'	'톱 없는 쪽으로 피하기'	the_copied_factory.js line#613
+'Go Behind Untethered Tank'	'Hinter den nicht verbundenen Panzer gehen'	'Derrière le tank non-lié'		'没连线的坦克后躲避'	'연결되지 않은 탱크 뒤로 숨기'	the_copied_factory.js line#648
+'Get in the bubble'	'Geh in die Kuppel'	'Allez dans les bulles'		'进入圈圈'	'안전지대 안으로 들어가기'	the_copied_factory.js line#674
+﻿'puddle on you'	'Fläche auf DIR'	'Flaque sur VOUS'		'水球点名'	'징 대상자'	akadaemia_anyder.js line#35
+'Away From Swimming Shark'	'Weg vom schwimmenden Hai'	'Ecartez-vous requin dans l\'eau'		'远离水中BOSS'	'물 속 상어 멀리 떨어지기'	akadaemia_anyder.js line#64
+'Sides of Swimming Shark'	'Zu den Seiten vom schwimmenden Hai'	'Allez sur les côtés'		'去水中BOSS的两侧'	'물 속 상어 측면으로 피하기'	akadaemia_anyder.js line#80
+'grab orbs'	'Orbs nehmen'	'Prenez les orbes'		'吃球'	'구슬 줍기'	akadaemia_anyder.js line#170
+﻿'Hide Behind Boulder'	'Hinter einem Felsen verstecken'			'躲在岩石后'	'바위 뒤에 숨기'	amaurot.js line#60
+﻿'Drop Meteor West'	'Hinter einem Felsen verstecken'			'西侧放陨石'	'바위 뒤에 숨기'	amaurot.js line#60
+'Get Off'	'Runter gehen'	'Sur les plateformes extérieures'		'站左右小平台'	'바깥으로 피하기'	amaurot.js line#87
+﻿'Avoid Arrow'	'Pfeil ausweichen'	'Evitez la flèche'		'躲箭头'	'화살표 피하기'	anamnesis_anyder.js line#32
+'Avoid Hands'	'Händen ausweichen'	'Evitez les mains'		'躲手'	'손 피하기'	anamnesis_anyder.js line#130
+﻿'Line Stack'	'Sammeln in einer Linie'	'Packez-vous en ligne'		'直线分摊'	'직선 쉐어'	holminster_switch.js line#135
+﻿'Melee Knockback'	'Nahkämpfer Rückstoß'			'近战击退'	'근거리 넉백'	malikahs_well.js line#37
+﻿'Ambition Tail Smash'	'Begierde Schweifschlag'	'Evitez la queue'		'尾巴横扫'	'꼬리 휘두르기 주의'	mt_gulg.js line#32
+'Frontal Laser'	'Frontaler Laser'	'Laser frontal'		'面前激光'	'정면 레이저 공격'	mt_gulg.js line#60
+'dodge wind cones'	'Wind-Fächerflächen ausweichen'	'Evitez les cônes de vent'		'躲风锥'	'부채꼴 공격 피하기'	mt_gulg.js line#89
+'max melee range'	'Maximale Nahkämpfer Entfernung'	'Limite de zone CaC'		'最远近战距离'	'칼끝딜'	mt_gulg.js line#204
+﻿'Look for pillar'	'Auf die Pfeiler schauen'	'Cherchez les piliers'		'找柱子躲'	'빛나는 기둥 위치확인'	qitana_ravel.js line#46
+'Stay on left flank'	'Auf seiner linken Seite stehen'	'Restez sur le flanc gauche'		'左侧翼躲避'	'보스 왼쪽 측면으로'	qitana_ravel.js line#63
+'Stay on right flank'	'Auf seiner rechten Seite stehen'	'Restez sur le flanc droit'		'右侧翼躲避'	'보스 오른쪽 측면으로'	qitana_ravel.js line#80
+'Run Away From Boss'	'Renn weg vom Boss'	'Courez loin du boss'		'远离Boss'	'보스와 거리 벌리기'	qitana_ravel.js line#163
+'Drop Poison Outside'	'Gift am Rand ablegen'	'Posez le poison à l\'extérieur'		'远处放毒'	'독 장판을 바깥 쪽에 버리기'	qitana_ravel.js line#176
+'Spread to Sides'	'Auf die Seiten verteilen'	'Dispersez-vous sur les bords'		'两侧分散'	'좌우 측면으로 산개'	qitana_ravel.js line#196
+﻿'Avoid Brooms'	'Besen ausweichen'	'Evitez les balais'		'躲扫把'	'빗자루 피하기'	the_grand_cosmos.js line#58
+'put seeds on dirt'	'Samen auf den nicht bewachsenen Boden legen'	'Placez les graines sur la terre'		'种子搬离AOE'	'씨앗 자라지 못하게 하기'	the_grand_cosmos.js line#105
+'Dodge Crosses'	'Den Kreuzen ausweichen'	'Evitez les croix'		'躲避交叉'	'십자 장판 피하기'	the_grand_cosmos.js line#159
+'Touch Furniture'	'Einrichtung berühren'	'Touchez un élément de décor'		'传火家具'	'가구에 불 옮기기'	the_grand_cosmos.js line#181
+﻿'Spread (avoid cages)'	'Verteilen (Vermeide "Käfige")'	'Dispersez vous (évitez les cages)'		'分散（躲避笼子）'	'산개 (몬스터 우리 피하기)'	twinning.js line#57
+'cardinal lasers'	'Himmelrichtungs-Lasers'	'Lasers cardinaux'		'正点激光'	'십자 레이저'	twinning.js line#128
+'outer lasers'	'Lasers am Rand'	'Lasers extérieurs'		'外侧激光'	'외곽 레이저'	twinning.js line#144
+﻿'Tank Laser on YOU'	'Tank Laser auf DIR'	'Tank laser sur VOUS'		'坦克射线点名'	'나에게 탱커 빔'	e1n.js line#71
+'Drop Puddle, Run Middle'	'Flächen ablegen, danach in die Mitte'	'Placez les flaques, courez au centre'		'放圈，回中央'	'장판 깔고 중앙으로'	e1n.js line#98
+﻿'Cross Spread'	'Verteilen'	'Ecartez-vous en croix'	'散開'	'四角躲避'	'산개'	e1s.js line#164
+'Puddle Spread'	'Flächen verteilen'	'Ecartez-vous'	'離れて散開'	'分散放圈'	'장판 유도 산개'	e1s.js line#306
+'Stack With Partner'	'Mit Partner stacken'	'Packez-vous avec votre partenaire'	'相方とスタック'	'与搭档集合'	'쉐어뎀 파트너랑 모이기'	e1s.js line#323
+'Stack in front of tank'	'Vorne mit dem Tank stacken'	'Packez-vous devant le tank'	'左右に分かれて内側へ'	'T前集合'	'좌우 탱커 앞 산개'	e1s.js line#358
+'Take prey from healer'	'Marker vom Heiler nehmen'	'Prenez la marque du healer'	'ヒーラーからマーカー取って'	'从奶妈拿毒'	'힐러한테서 표식 받기'	e1s.js line#415
+'Get Outside Your Orb'	'Geh zu deinem Orb'	'Allez à l\'extérieur de votre orbe'	'ピュアレイを外へ誘導'	'球外站位'	'본인 레이저 바깥으로 유도'	e1s.js line#456
+'Bait Orb Lasers Outside'	'Laser nach drausen ködern'	'Placez les lasers à l\'extérieur'		'外侧吃激光'	'원/힐 레이저 바깥으로 유도'	e1s.js line#473
+﻿'Get Puddles'	'Flächen nehmen'	'Prenez les rayons'		'踩圈'	'장판 밟기'	e2n.js line#15
+'tank busters'	'tank buster'	'Tank busters'		'死刑'	'탱버'	e2n.js line#50
+'Delayed Fire'	'Verzögertes Feuer'	'Feu retardé'		'延迟火'	'지연술 파이가'	e2n.js line#136
+'Delayed Stack'	'Verzögertes sammeln'	'Package retardé'		'延迟集合'	'지연술 쉐어징'	e2n.js line#183
+'Delayed Shadoweye'	'Verzögertes Schattenauge'	'Œil de l\'ombre retardé'		'延迟石化眼'	'지연술 그림자시선'	e2n.js line#217
+﻿'Protean'	'Himmelsrichtungen'	'Position'	'散開'	'分散站位'	'정해진 위치로 산개'	e2s.js line#134
+'Away From Hand'	'Weg von der Hand'	'Eloignez-vous de la main'	'手から離れて'	'远离手'	'팔에서 멀어지기'	e2s.js line#181
+'Eye on YOU'	'Auge auf DIR'	'Œil sur VOUS'	'自分に目'	'石化眼点名'	'나에게 눈징'	e2s.js line#335
+'Flare'	'Flare'	'Brasier'	'フレア捨てて'	'核爆'	'플레어'	e2s.js line#362
+'Delayed Flare'	'Verzögerte Flare'	'Brasier retardé'	'フレア(ディレイ)'	'延迟核爆'	'지연술 플레어'	e2s.js line#388
+'Flare'	'Flare'	'Brasier'	'フレア捨てて'	'核爆'	'플레어'	e2s.js line#403
+'Flare aoes'	'Flare aoes'	'Dégâts de zone des Brasiers'	'フレア AoE'	'核爆AOE'	'플레어 터짐'	e2s.js line#421
+'Hell Wind: Get Out'	'Höllenwind: Raus gehen'	'Vent infernal : Sortez'	'ヘルウィンド: HP1になるよ'	'地狱之风：远离'	'홍옥징 대상자'	e2s.js line#437
+'Delayed Hell Wind'	'Verzögerte Höllenwind'	'Vent infernal retardé'	'ヘルウィンド(ディレイ)'	'延迟地狱之风'	'지연술 홍옥징'	e2s.js line#477
+'Hell Wind: wait for heals'	'Höllenwind: Warte auf Heilung'	'Vent infernal : attendez les soins'	'ヘルウィンド: HP戻ってから'	'地狱之风：等奶'	'힐 받고 들어가기'	e2s.js line#494
+'Heal Hell Wind Targets'	'Heile Höllenwind Ziele'	'Soignez les cibles de Vent infernal'	'HP戻して'	'奶地狱之风目标'	'홍옥징 대상자 힐'	e2s.js line#512
+'In, Protean, Sides'	'Rein, Himmelsrichtungen, Seiten'	'Sous le boss, Position, Côtés'	'中 => 散開 => 横'	'脚下 => 站位 => 两侧'	'중앙 => 산개 => 측면'	e2s.js line#538
+'Sides, In, Protean'	'Seiten, Rein, Himmelsrichtungen'	'Côtés, Sous le boss, Position'	'横 => 中 => 散開'	'两侧 => 脚下 => 站位'	'측면 => 중앙 => 산개'	e2s.js line#555
+﻿'Look for Wave'	'Nach der Welle schauen'	'Repérez la vague'		'看浪'	'해일 위치 확인'	e3n.js line#41
+'Get Middle'	'In die Mitte gehen'	'Allez au centre'		'中间'	'중앙으로'	e3n.js line#70
+'Avoid Puddles and Dives'	'Flächen und Leviathan ausweichen'	'Evitez les flaques et les dives'		'躲圈闪避'	'돌진이랑 장판 피하세요'	e3n.js line#97
+'Donut on YOU'	'Donut auf DIR'	'Donut sur VOUS'		'月环点名'	'나에게 도넛장판'	e3n.js line#151
+﻿'Tank Cleaves, Move Front'	'Tank Cleaves, nach vorne bewegen'	'Tank cleave, allez devant'	'拡散くるよ'	'坦克放陨石，向前集合'	'탱버, 앞으로 이동'	e3s.js line#31
+'Flare on YOU'	'Flare auf DIR'	'Brasier sur VOUS'	'自分にフレア'	'核爆点名'	'플레어 대상자'	e3s.js line#170
+'Stack, Bait Puddles'	'Sammeln, Flächen ködern'	'Packé, évitez zone au sol'	'集合'	'集合'	'모이기'	e3s.js line#187
+'Drop Puddles Outside'	'Flächen drausen ablegen'	'Placez les flaques à l\'extérieur'	'散開'	'散开'	'산개'	e3s.js line#205
+'Stack, Bait Puddles'	'Sammeln, Flächen ködern'	'Packé, évitez zone au sol'	'集合'	'集合'	'모이기'	e3s.js line#222
+'Panto Puddles x5'	'Panto Flächen x5'	'Panto x5'	'パント5回'	'处理水圈 x5'	'발밑장판 5회'	e3s.js line#269
+'Puddle Tether on YOU'	'Black Smoker Verbindung auf DIR'	'Lien sur VOUS'	'線ついた'	'水圈连线'	'나에게 선연결'	e3s.js line#289
+'Pop alternating bubbles'	'Flächen abwechselnd nehmen'	'Absorbez les bulles en alternance'	'水出た'	'交替踩圈'	'물장판 밟기'	e3s.js line#322
+'Initial knockback on YOU'	'Initialer Knockback auf DIR'	'Pousée initiale sur VOUS'	'最初のノックバック'	'初始击退点名'	'첫 넉백 대상자'	e3s.js line#342
+'Defamation'	'Defamation'	'Médisance'	'暴風'	'暴风'	'폭풍 대상자'	e3s.js line#413
+'Avoid Knockback, Move to Back'	'Vermeide Knockback, dann nach hinten bewegen'	'Evitez la pousée, allez à l\'arrière'	'後ろへ'	'后方放大圈'	'넉백 피해서 뒤로 이동'	e3s.js line#434
+'Move In, Avoid Defamation'	'Rein gehen, vermeide Defamation'	'Sous le boss, évitez la médisance'	'前にノックバック'	'靠近躲避'	'안으로 이동, 폭풍 피하기'	e3s.js line#475
+'Tank Cone'	'Tank Kegel'	'Cône tank'	'断絶'	'坦克三角'	'확산의 징조 대상자'	e3s.js line#495
+'Tank Cone'	'Tank Kegel'	'Cône tank'	'断絶'	'坦克三角'	'확산: 탱 멀리 / 대상자 앞으로'	e3s.js line#517
+'Front left / Back right'	'Vorne Links / Hinten Rechts'	'Avant gauche / Arrière droite'	'左前 / 右後ろ'	'前左 / 后右'	'↖ 앞 왼쪽 / 뒤 오른쪽 ↘'	e3s.js line#546
+'Front right / Back left'	'Vorne Rechts / Hinten Links'	'Avant droit / Arrière gauche'	'右前 / 左後ろ'	'前右 / 后左'	'↗ 앞 오른쪽 / 뒤 왼쪽 ↙'	e3s.js line#563
+'Front left / Back right'	'Vorne Links / Hinten Rechts'	'Avant gauche / Arrière droite'	'左前 / 右後ろ'	'前左 / 后右'	'↖ 앞 왼쪽 / 뒤 오른쪽 ↘'	e3s.js line#588
+'Front right / Back left'	'Vorne Rechts / Hinten Links'	'Avant droit / Arrière gauche'	'右前 / 左後ろ'	'前右 / 后左'	'↗ 앞 오른쪽 / 뒤 왼쪽 ↙'	e3s.js line#609
+﻿'aoe + dot'	'AoE + DoT'	'Dégâts de zone + dot'		'AOE + dot'	'전체공격 + 도트뎀'	e4n.js line#35
+'Stand In Front'	'Vor ihm stehen'	'Se placer devant'		'面前躲避'	'정면이 안전'	e4n.js line#64
+'Stand On Flank'	'Auf seiner Flanke stehen'	'Se placer sur le flanc'		'两侧躲避'	'넓은쪽 옆면이 안전'	e4n.js line#108
+﻿'Tank Busters'	'Tank buster'	'Tank busters'	'タンクバスター'	'坦克死刑'	'탱버'	e4s.js line#18
+'Look for Evil Earth Marker'	'Schau nach den Grimm der Erde Marker'	'Repérez une marque de Terre maléfique'	'範囲見て'	'观察地板'	'사악한 대지 패턴 확인'	e4s.js line#87
+'Landslide: In Front'	'Armberge: Vor ihm'	'Devant'	'ランスラ: 正面へ'	'面前躲避'	'완갑: 정면'	e4s.js line#135
+'Back Corners'	'Hintere Ecken'	'Coins arrière'	'ランスラくるよ'	'后方角落'	'뒤쪽 구석으로'	e4s.js line#162
+'Bomb on YOU'	'Bombe auf DIR'	'Bombe sur VOUS'	'マーカーついた'	'炸弹点名'	'거리감쇠 징 대상자'	e4s.js line#177
+'Wheels: On Sides'	'Räder: Zur Seite'	'Roues : Sur les côtés'	'車輪: 横へ'	'车轮：两侧'	'바퀴: 옆으로'	e4s.js line#264
+'Tank Charge'	'Tank wird angefahren'	'Charge tank'	'タンクに突進'	'坦克冲锋'	'탱커를 향해 돌진'	e4s.js line#281
+'Left, Then Right'	'Links, dann Rechts'	'Gauche puis droite'	'左 => 右'	'左 => 右'	'왼쪽 => 오른쪽'	e4s.js line#321
+'Right, Then Left'	'Rechts, dann Links'	'Droite puis gauche'	'右 => 左'	'右 => 左'	'오른쪽 => 왼쪽'	e4s.js line#338
+'Left, Stay Left'	'Links, Links bleiben'	'Gauche puis restez'	'ずっと左'	'一直在左'	'왼쪽 => 왼쪽'	e4s.js line#355
+'Right, Stay Right'	'Rechts, Rechts bleiben'	'Droite puis restez'	'ずっと右'	'一直在右'	'오른쪽 => 오른쪽'	e4s.js line#372
+'Gaol on YOU'	'Gefängnis auf DIR'	'Geôle sur VOUS'	'自分にジェイル'	'石牢点名'	'화강암 감옥 대상'	e4s.js line#439
+'GET OFF FRONT RIGHT'	'VON VORNE RECHTS RUNTER'	'PARTEZ DE L\'AVANT DROITE'	'右前壊れるよ'	'破坏右前'	'앞 오른쪽 피하기'	e4s.js line#462
+'GET OFF BACK RIGHT'	'VON HINTEN RECHTS RUNTER'	'PARTEZ DE L\'ARRIERE DROITE'	'右後ろ壊れるよ'	'破坏右后'	'뒤 오른쪽 피하기'	e4s.js line#479
+'GET OFF BACK LEFT'	'VON HINTEN LINKS RUNTER'	'PARTEZ DE L\'ARRIERE GAUCHE'	'左後ろ壊れるよ'	'破坏左后'	'뒤 왼쪽 피하기'	e4s.js line#496
+'GET OFF FRONT LEFT'	'VON VORNE LINKS RUNTER'	'PARTEZ DE L\'AVANT GAUCHE'	'左前壊れるよ'	'破坏左前'	'앞 왼쪽 피하기'	e4s.js line#513
+﻿'Look for small spear'	'Halt nach kleinem Speer ausschau'	'Allez sur la petite lance'		'寻找小棒'	'작은 지팡이 확인'	e5n.js line#52
+'Look for adds'	'Halt nach dem Add ausschau'	'Cherchez les adds'		'寻找小怪'	'쫄 위치 확인'	e5n.js line#67
+'Fury\'s Bolt'	'Wütender Blitz'	'Boule de foudre'		'强化'	'라무 강화'	e5n.js line#82
+'Grab an orb'	'Einen Orb nehmen'	'Prenez un orbe'		'吃雷球'	'구슬 줍기'	e5n.js line#111
+'Drop cloud outside'	'Wolken draußen ablegen'	'Placez le nuage à l\'extérieur'		'将雷云放在外面'	'바깥으로 구름 유도'	e5n.js line#122
+﻿'Position for Stormcloud'	'Position für die Wolke'	'Position pour les nuages'		'雷云站位'	'번개 구름 위치 잡기'	e5s.js line#256
+'Be in your position'	'Befinde dich auf deiner Position!'	'Soyez en place'		'冲锋站位'	'자기 위치에 있기'	e5s.js line#272
+'Ready for Chain'	'Bereit für Kettenblitz'	'Préparez-vous pour la chaine'		'闪电链'	'번개 돌려막기 준비'	e5s.js line#288
+﻿'Avoid green nails'		'Evitez les clous'		'躲避风牙'	'초록 발톱 피하기'	e6n.js line#29
+'Tether Marker on YOU'	'Verbindung auf DIR'	'Marque de lien sur VOUS'		'连线点名'	'징 대상자'	e6n.js line#120
+'Move to Ifrit'		'Allez sur Ifrit'		'踢球 集合待机'	'이프리트로 이동'	e6n.js line#135
+﻿'Attack Garuda'	'Greife Garuda an'	'Attaquez Garuda'		'打风神'	'가루다 공격하기'	e6s.js line#179
+'Attack Ifrit'	'Greife Ifrit an'	'Attaquez Ifrit'		'打火神'	'이프리트 공격하기'	e6s.js line#194
+'go to spots for chains'	'Gehe zu den Stellen für die Kette'	'Positions pour les chaines'		'连线站位'	'콘플레그 준비'	e6s.js line#234
+﻿'Teleporting Left'		'Téléportation à gauche'		'向左传送'	'왼쪽으로 순간이동'	e7n.js line#33
+'Teleporting Right'		'Téléportation à droite'		'向右传送'	'오른쪽으로 순간이동'	e7n.js line#44
+'Teleporting Forward'	'Teleportation Vorwärts'	'Téléportation devant'		'向前传送'	'앞으로 순간이동'	e7n.js line#57
+'Teleporting Back'	'Teleportation Rückwärts'	'Téléportation derrière'		'向后传送'	'뒤로 순간이동'	e7n.js line#72
+'Teleport into donut'		'Téléportez vous dans le donut'		'传送到圈里'	'도넛 장판 안으로 순간이동하기'	e7n.js line#84
+﻿'Dark NE, Light NW, one pair S'	'Dunkel NO, Licht NW, ein Paar S'	'Noir NE, Blanc NO, une paire S'		'黑右前 白左前 两人后'	'어둠 북동, 빛 북서, 한쌍은 남으로'	e7s.js line#15
+'Get under vertical add'	'Unter das vertikale Add gehen'	'Allez sous l\'add vertical'		'去垂直小怪脚下'	'똑바로 서 있는 쫄 아래로'	e7s.js line#317
+'Bait Puddles'	'Flächen ködern'	'Placez les flaques'		'放圈'	'장판 버리기'	e7s.js line#441
+'Get Knocked Into Corner'	'Lass dich in die Ecke zurückstoßen'	'Faites vous pousser dans les coins'		'击退到角落'	'구석으로 넉백'	e7s.js line#456
+﻿'Go Front / Sides'	'Gehe nach Forne/ zu den Seiten'			'去前面/两边'	'앞 / 양옆으로'	e8n.js line#54
+'Get behind, then South'				'去后面 => 南边'	'보스 뒤로 => 남쪽으로'	e8n.js line#94
+'Go Front / Sides, then North'				'去前面/两边=> 北边'	'앞/양옆으로 => 북쪽으로'	e8n.js line#110
+'Close to mirrors'				'靠近镜子'	'거울 밑으로'	e8n.js line#135
+'3x puddles on you'				'3个冰圈'	'따라오는 장판 피하기'	e8n.js line#194
+'Back Then Front'	'Nach Hinten, danach nach Forne'	'Derrière puis devant'		'后面=> 前面'	'뒤로 => 앞으로'	e8n.js line#275
+'Front Then Back'	'Nach Forne, danach nach Hinten'	'Devant puis derrière'		'前面=> 后面'	'앞으로 => 뒤로'	e8n.js line#290
+﻿'Cleanse'	'Reinigen'	'Guérison'		'驱散'	'에스나'	e8s.js line#206
+'Chain on YOU'	'Kette auf DIR'	'Chaine sur VOUS'		'连线'	'사슬 대상자'	e8s.js line#264
+'Orb on YOU'	'Orb auf DIR'	'Orbe sur VOUS'		'拉球'	'구슬 대상자'	e8s.js line#276
+'Cleanse DPS Only'	'Nur DPS reinigen'	'Guérissez les DPS seulement'		'驱散DPS'	'딜러만 에스나'	e8s.js line#566
+'Tank Stack in Tower'		'Tank packé dans les tours'		'坦克塔内分摊'		e8s.js line#583
+'Tank Spread in Tower'		'Tank écarté dans les tours'		'坦克塔内分散'		e8s.js line#598
+﻿'Comet Towers'	'Türme'	'Tours'	'コメットを処理'	'踩塔'	'혜성 기둥'	hades-ex.js line#23
+'Then Right'	'Dann Rechts'	'Droite'	'そして右へ'	'然后右'	'다음 오른쪽'	hades-ex.js line#94
+'Then Left'	'Dann Links'	'Gauche'	'そして左へ'	'然后左'	'다음 왼쪽'	hades-ex.js line#122
+'Go to Safe Spot'	'Geh zur sicheren Stelle'	'Allez dans la zone sûre'	'安全の場所へ移動'	'前往安全区域'	'안전 지대로 이동'	hades-ex.js line#140
+'Hide Behind Door'	'Hinter der Tür verstecken'	'Cachez-vous derrière le mirroir'	'鏡の後ろに'	'镜子后躲避'	'문 뒤에 숨기'	hades-ex.js line#158
+'Point Tether Out'	'Verbindung nach draußen richten'	'Liens vers l\'extérieur'	'線を外に引く'	'连线'	'선 연결 바깥으로 빼기'	hades-ex.js line#191
+'Healer Stacks'	'Bei dem Heiler sammeln'	'Package sur les heals'	'ヒーラーに集合'	'治疗集合'	'힐러 모이기'	hades-ex.js line#206
+'Tank Spread'	'Tanks verteilen'	'Tanks : dispersion'	'タンクは外に'	'坦克散开'	'탱 산개'	hades-ex.js line#224
+'Move Shades Apart'	'Schatten auseinander ziehen'	'Ecartez les spectres'	'アシエンを引き離す'	'拉开无影'	'분신 서로 떨어뜨리기'	hades-ex.js line#265
+'Attack Igeyorhm'	'Igeyorhm angreifen'	'Attaquez Igeyorhm'	'イゲオルムを攻撃'	'攻击以格约姆'	'Igeyorhm 공격'	hades-ex.js line#322
+'Attack Lahabrea'	'Lahabrea angreifen'	'Attaquez Lahabrea'	'ラハブレアを攻撃'	'攻击拉哈布雷亚'	'라하브레아 공격'	hades-ex.js line#344
+'Heal T/H to Full'	'Heile T/H voll'	'T/H full vie'	'タンク／ヒーラーを満タンさせ'	'奶满T奶'	'탱/힐 풀피로 만들기'	hades-ex.js line#412
+'Get Killed'	'Stirb'	'Mourrez'	'自殺'	'自杀'	'죽을 정도로 맞기'	hades-ex.js line#447
+'Stay Out'	'Draußen stehen'	'Restez éloigné'	'ライトニングを外に安置'	'外侧放雷'	'바깥에 있기'	hades-ex.js line#492
+'aoe + bleed'	'AoE + Blutung'	'Dégâts de zone + saignement'	'AoE + DoT'	'AOE + 流血'	'전체 공격 + 출혈'	hades-ex.js line#512
+'Healer Stacks'	'Bei den Heilern sammeln'	'Package sur les heals'	'ヒーラーに集合'	'治疗集合'	'힐러 모이기'	hades-ex.js line#566
+'Break Aetherial Gaol'	'Zerstöre Ätherkerker'	'Détruisez la Geôle éthérée'	'エーテリアル・ジェイルを打ち破す'	'打破牢狱'	'에테르 감옥 부수기'	hades-ex.js line#603
+'Knockback + Stack on YOU'	'Rückstoß + sammeln beim DIR'	'Poussée + package sur VOUS'	'ノックバック + 頭割り'	'击退 + 集合 点名'	'넉백 + 쉐어징 대상자'	hades-ex.js line#618
+'Knockback + Ice on YOU'	'Rückstoß + Eis auf DIR'	'Poussée + Glace sur VOUS'	'ノックバック + 氷'	'击退 + 冰 点名'	'넉백 + 얼음징 대상자'	hades-ex.js line#636
+'Puddles on YOU'	'Fläsche auf YOU'	'Puddle sur VOUS'	'AoEを外に捨て'	'水圈点名'	'징 대상자'	hades-ex.js line#675
+'Healer Stacks'	'Bei dem Heiler sammeln'	'Package sur les heals'	'ヒーラーに集合'	'治疗集合'	'힐러 모이기'	hades-ex.js line#698
+'Exoflares'	'Exa-Flares'	'Exaflares'	'ダークストリーム'	'地火'	'엑소플레어'	hades-ex.js line#744
+'aoe + bleed'	'AoE + Blutung'	'Dégâts de zone + saignement'	'AoE + DoT'	'AOE + 流血'	'전체 공격 + 출혈'	hades-ex.js line#829
+'Enrage'	'Finalangriff'	'Enrage'	'時間切れ'	'狂暴'	'전멸기'	hades-ex.js line#846
+﻿'Dodge Giant Circles'	'Weiche dem großen Kreis aus'	'Evitez les cercles géants'		'躲避大圈'	'대형장판피하기'	hades.js line#91
+'Cleanse Doom In Circle'	'Entferne Verhängnis mit den Kreisen'	'Dispell le Glas'		'踩光圈'	'모든 장판을 밟으세요'	hades.js line#163
+'Right Knockback'	'Rechter Knockback'	'Poussée à droite'		'右侧击退'	'오른쪽 넉백'	hades.js line#179
+'Left Knockback'	'Linker Knockback'	'Poussée à gauche'		'左侧击退'	'왼쪽 넉백'	hades.js line#195
+'Tank Buster Spread'	'Tank Buster verteilen'	'Tankbuster, séparez-vous'		'坦克死刑分散'	'탱버 산개'	hades.js line#229
+'Drop Marker Outside'	'Marker außen ablegen'	'Posez la marque à l\'extérieur'		'外侧放点名'	'외곽으로'	hades.js line#243
+'Fetters on YOU'	'Fessel auf DIR'			'锁链点名'	'선대상자 -> YOU'	hades.js line#257
+'Kill Jail'	'Gefängniss zerstören'	'Dégommez la prison'		'攻击牢狱'	'감옥'	hades.js line#273
+'Spread (Don\'t Stack!)'	'Verteilen (Ohne stacken)'	'Dispersez-vous (non packé)'		'分散（不要重合!）'	'산개（모이지마세요!）'	hades.js line#295
+﻿'Swords!'	'Schwerter!'	'Epées !'	'剣くるよ'	'剑!'	'검 돌아옴!'	innocence-ex.js line#36
+'Get to Safe Corner'	'Geh in die sichere Ecke'	'Allez sur le coin sûr'	'安置へ'	'去安全角落'	'안전한 구석으로 이동'	innocence-ex.js line#235
+'Grab East/West Venery Adds'	'Nehme östliches/westliches Wollust Add'	'Attrapez les adds en Est/Ouest'	'雑魚のタゲ取って'	'接小怪仇恨'	'동/서 쫄 잡으세요'	innocence-ex.js line#255
+'Get to Safe Corner'	'Geh in die sichere Ecke'	'Allez sur le coin sûr'		'去安全角落'	'안전한 구석으로 이동하세요'	innocence-ex.js line#324
+'Tether on YOU'	'Verbindung auf DIR'	'Lien sur VOUS'	'線ついた'	'连线点名'	'선 대상자 지정됨'	innocence-ex.js line#338
+'Avoid Swords then Ray'	'Weiche den Schwertern aus, danach Strahl'	'Evitez l\'épée puis le rayon'	'剣避けてからピザカット'	'躲避剑与激光'	'칼 먼저 피하고 장판 피하세요'	innocence-ex.js line#383
+'Rotate Left'	'Links rum rotieren'			'向左旋转'	'왼쪽으로 도세요'	innocence-ex.js line#425
+'Rotate Right'	'Rechts rum rotieren'			'向右旋转'	'오른쪽으로 도세요'	innocence-ex.js line#441
+'Rotate Left'	'Links rum rotieren'			'向左旋转'	'왼쪽으로 도세요'	innocence-ex.js line#457
+'Rotate Right'	'Rechts rum rotieren'			'向右旋转'	'오른쪽으로 도세요'	innocence-ex.js line#473
+﻿'Look Away, Get Towers'	'Weg schauen, Türme nehmen'			'背对BOSS，踩塔'		innocence.js line#32
+'Avoid Charge'	'ausweichen'	'Evitez les charges'	'突進避けて'	'躲避冲锋'		innocence.js line#89
+'Circle on YOU'	'Kreis auf DIR'	'Cercle sur vous'	'サークルついた'	'圈圈点你'		innocence.js line#117
+﻿'Hide Behind Meteor'				'躲在陨石后'	'운석 뒤에 숨기'	ruby-weapon-ex.js line#17
+'Away From Meteor'				'远离陨石'	'운석에게서 멀어지기'	ruby-weapon-ex.js line#26
+'Away from Lines'	'Weg von den Linien'	'En dehors des sillons'		'远离线'	'선 피하기'	ruby-weapon-ex.js line#61
+'Get On Lines'	'Auf die Linien gehen'	'Sur les sillons'		'靠近线'	'선 위로 올라가기'	ruby-weapon-ex.js line#74
+'Enrage!'	'Finalangriff!'	'Enrage !'		'狂暴'	'전멸기!'	ruby-weapon-ex.js line#141
+'Away from Meteor!'		'Loin du Météore!'		'远离陨石'	'운석에게서 멀어지기'	ruby-weapon-ex.js line#296
+'Stand in Meteor Tankbuster'		'Restez dans la Comète Tankbuster'		'接刀'	'운석 막기'	ruby-weapon-ex.js line#310
+'Kill Meteor Adds'		'Tuez les Comètes'		'击杀陨石'	'운석 부수기'	ruby-weapon-ex.js line#324
+'Avoid tanks with laser'		'Évitez les tanks avec vôtre laser'		'躲开坦克激光'	'레이저 대상자 - 탱커 피하기'	ruby-weapon-ex.js line#334
+﻿'Avoid meteors with laser'				'躲开激光点名'	'레이저 대상자 - 탱커 피하기'	ruby-weapon.js line#159
+﻿'Wait For Tethers In Center'	'Auf die Verbindung in der Mitte warten'	'Attente des liens au centre'	'中央で待機'	'中间集合等待荆棘'	'가시 연결되기 전에 중앙으로'	titania-ex.js line#139
+'Diagonal Knockback Soon'	'diagonaler Knockback bald'	'Poussée en diagonale bientôt'	'対角に飛ぶ'	'对角击退准备'	'곧 대각선 넉백'	titania-ex.js line#167
+'Get Middle, Shiva Circles'	'In die Mitte, Shiva Kreise'	'Allez au milieu, comme sur Shiva'	'シヴァの輪っか'	'中间集合, 九连环'	'시바 얼음 장판'	titania-ex.js line#210
+'Roots'	'Ranken'	'Racines'	'根のルーン'	'根系生长'	'뿌리 나옴'	titania-ex.js line#249
+'Initial Thunder Tether'	'initiale Blitz Verbindung'	'Lien de foudre initial'	'線一人目'	'初始雷连线'	'첫 번개 징 대상자'	titania-ex.js line#366
+﻿'Water Positions'	'Wasser Positionen'	'Position pour l\'eau'		'水毒'		titania.js line#62
+'Stack In Puddles'	'In einer Fläche sammeln'	'Packez-vous'		'水圈集合'		titania.js line#77
+'Avoid Roots'	'Ranken vermeiden'	'Racines'		'躲避树根'		titania.js line#137
+﻿'Move Bosses'	'Bosse bewegen'		'ボス動かして'	'移动Boss'	'보스 이동 주차'	the_epic_of_alexander.js line#136
+'aoe'	'AoE'	'Dégâts de zone'	'AoE'	'AOE'	'전체 공격'	the_epic_of_alexander.js line#152
+'Water/Thunder in 3'	'Wasser/Blitz in 3'	'Eau/Foudre dans 3'	'水/雷まで3秒'	'3秒后水/雷'	'물/번개까지 3초'	the_epic_of_alexander.js line#165
+'Face Brute Towards Water'	'Drehe Brute zum Wasser'		'ジャスを竜巻に向ける'	'残暴正义号拉向水龙卷'	'심판자가 물을 바라보게 유도'	the_epic_of_alexander.js line#182
+'Hide Behind Ice'	'Hinter dem Eis verstecken'	'Derrière la glace'	'氷の後ろへ'	'冰块后躲避'	'얼음 뒤로 피하기'	the_epic_of_alexander.js line#194
+'Protean Wave'	'Proteische Welle'		'プロティアン'	'万变水波'	'프로틴 웨이브'	the_epic_of_alexander.js line#536
+'Drainage tether on YOU'	'Entwässerungsverbindung auf DIR'		'自分にドレナージ'	'连线点名'	'나에게 물줄기'	the_epic_of_alexander.js line#555
+'Cleanse Throttle'	'Erstickung entfernen'		'窒息'	'窒息'	'질식'	the_epic_of_alexander.js line#597
+'Out, Dodge Chakrams'	'Raus, Chakrams ausweichen'	'Dehors, évite les Chakrams'	'外へ'	'远离，躲避轮轮'	'바깥으로 차크람 피하기'	the_epic_of_alexander.js line#731
+'Run In'	'Rein'		'中へ'	'靠近'	'가운데로'	the_epic_of_alexander.js line#750
+'Dodge Spin Crusher'	'Rotorbrecher ausweichen'		'スピンクラッシャー避けて'	'躲避回旋碎踢'	'스핀 크러시 피하기'	the_epic_of_alexander.js line#784
+'Freeze Tornado'	'Tornado einfrieren'	'Gèle la tornade'	'竜巻凍らせる'	'冰冻龙卷风'	'물 회오리 얼리기'	the_epic_of_alexander.js line#798
+'Mines'	'Minen'	'Mines'	'地雷'	'地雷'	'지뢰'	the_epic_of_alexander.js line#819
+'Enumeration on YOU'	'Enumeration auf DIR'	'Enumeration sur VOUS'	'自分にカウント'	'计数点名'	'나에게 인원수'	the_epic_of_alexander.js line#834
+'Break Shield From Front'	'Schild von Vorne zerstören'	'Détruis le bouclier en face'	'正面からシールド壊して'	'从前面击破盾牌'	'정면에서 실드를 부수기'	the_epic_of_alexander.js line#876
+'Water on YOU'	'Wasser auf DIR'	'Eau sur VOUS'	'自分に水'	'水点名'	'나에게 물'	the_epic_of_alexander.js line#896
+'Lightning on YOU'	'Blitz auf DIR'	'Foudre sur VOUS'	'自分に雷'	'雷点名'	'나에게 번개'	the_epic_of_alexander.js line#944
+'Pass Nisi'	'Nisi weitergeben'	'Passe Nisi'	'ナイサイ渡して'	'传递审判'	'나이사이 건네기'	the_epic_of_alexander.js line#992
+'Pass Nisi'	'Nisi weitergeben'	'Passe Nisi'	'ナイサイ渡して'	'传递审判'	'나이사이 건네기'	the_epic_of_alexander.js line#1015
+'avoid ray'	'Strahl ausweichen'	'Evitez le rayon'	'アポカリ避けて'	'躲避激光'	'아포칼립틱 광선 피하기'	the_epic_of_alexander.js line#1169
+'Far Tethers'	'Entfernte Verbindungen'	'Liens éloignés'	'ファー'	'远离连线'	'접근금지: 상대와 떨어지기'	the_epic_of_alexander.js line#1231
+'Close Tethers'	'Nahe Verbindungen'	'Liens proches'	'ニアー'	'靠近连线'	'강제접근: 상대와 가까이 붙기'	the_epic_of_alexander.js line#1252
+'Shared Sentence'	'Urteil: Kollektivstrafe'	'Peine collective'	'集団罰'	'集团罪'	'단체형: 무직과 함께 맞기'	the_epic_of_alexander.js line#1273
+'Thunder'	'Blitz'	'Peine Sévère'	'加重罰'	'加重罪'	'가중형: 가중형끼리 모이기'	the_epic_of_alexander.js line#1313
+'Crystal on YOU'	'Kristall auf DIR'	'Cristal sur VOUS'	'自分に結晶'	'结晶点名'	'나에게 수정'	the_epic_of_alexander.js line#1376
+'Get Away From Crystals'	'Geh weg vom Kristall'	'Eloignez-vous des Cristaux'	'結晶から離れて'	'远离结晶'	'수정으로부터 멀어질 것'	the_epic_of_alexander.js line#1394
+'Bait Brute\'s Flarethrower'	'Locke Brute\'s Großflammenwerfer'		'火炎放射を誘導'	'引导火炎放射'	'화염 방사 유도'	the_epic_of_alexander.js line#1413
+'Move Behind Brute Justice?'	'Geh hinter Brutalus?'		'ジャスティスの背面へ'	'残暴正义号背后躲避?'	'심판자 등 뒤로 이동?'	the_epic_of_alexander.js line#1626
+'Stack Middle'	'mittig sammeln'		'中央へ'	'中间集合'	'가운데로 모이기'	the_epic_of_alexander.js line#1640
+'big aoe'	'große AoE'	'Grosse AoE'		'大的AOE'	'거대 전체 공격'	the_epic_of_alexander.js line#1656
+'Kill Cruise Chaser First'	'Chaser-Mecha zuerst besiegen'	'Tuez Croiseur-chasseur en premier'	'チェイサーから倒す'	'先杀巡航驱逐者'	'순항추격기부터 처치하기'	the_epic_of_alexander.js line#1673
+'TANK LB!!'	'TANK LB!!'	'TANK LB!!'	'タンクLB!!'	'坦克LB!!'	'탱크 LIMITE BREAK!!'	the_epic_of_alexander.js line#1694
+'Spread'	'Verteilen'	'Dispersez-vous'	'散開'	'分散'	'산개'	the_epic_of_alexander.js line#1710
+'Keep Moving'	'weiter bewegen'	'Bougez'	'動く'	'保持移动'	'움직여!!!'	the_epic_of_alexander.js line#1763
+'STOP LITERALLY EVERYTHING'	'STOP WIRKLICH ALLES'	'ARRÊTEZ TOUT'	'止まる'	'停止一切动作'	'멈춰!!!'	the_epic_of_alexander.js line#1779
+'Orange (Attract)'	'Orange (Anziehen)'	'Orange (Attraction)'	'接触禁止'	'接触禁止'	'노랑/접근금지'	the_epic_of_alexander.js line#1796
+'Orange Bait: Get Away'	'Orange locken: Geh Weg'	'Appât Orange: Eloignez-vous'	'接触保護'	'接触保护'	'노랑/접촉보호; 유도역할/혼자 멀리 있기'	the_epic_of_alexander.js line#1821
+'Purple (Repel)'	'Lila (Abstoßen)'	'Violet (Répulsion)'	'逃亡禁止'	'逃亡禁止'	'보라/도망금지'	the_epic_of_alexander.js line#1838
+'Purple Bait: Be In Back Of Group'	'Lila locken: Hinter der Gruppe sein'	'Appât Violet: Placez-vous derrière le groupe'	'逃亡監察'	'逃亡监察'	'보라/도망관찰; 유도역할/사람들 뒤에 있기'	the_epic_of_alexander.js line#1863
+'Optical Spread'	'Visier verteilen'		'散開'	'分散'	'옵티컬: 산개'	the_epic_of_alexander.js line#2436
+'Optical Stack'	'Visier sammeln'		'シェア'	'分散'	'옵티컬: 모이기'	the_epic_of_alexander.js line#2454
+'Stack Middle for Trine'	'Mittig sammeln für Trine'		'大審判来るよ'	'大审判 中间集合'	'대심판(Trine)이 옵니다, 가운데로'	the_epic_of_alexander.js line#2575
+﻿'Be Near Boss'	'sei in der Nähe des Bosses'	'Près du boss'		'靠近Boss'	'보스 근처로'	the_copied_factory.js line#27
+'Puddle on YOU'	'Fläsche auf dir'	'Flaques sur VOUS'		'水圈点名'	'징 대상자'	the_copied_factory.js line#460
+'Get Out + Dodge Homing AoE'	'Geh Raus + Zielsuch-AoE ausweichen'	'Dehors + Evitez l\'AoE'		'远离 + 躲避弹幕'	'바깥으로 빠지고 따라오는 장판 피하기'	the_copied_factory.js line#475
+﻿'Drop Meteor East'	'Meteor im Osten ablegen'	'Poser le météore à l\'est'		'陨石放东边'	'메테오 동쪽으로 빼기'	amaurot.js line#29
+'Meteor'	'Meteor'	'Météore'		'陨石'	'메테오'	amaurot.js line#36
+﻿'Break chain on ' + data.ShortName(matches.target)	'Kette von ' + data.ShortName(matches.target) + ' brechen'	'Cassez les chaînes de ' + data.ShortName(matches.target)		'截断' + data.ShortName(matches.target) + '的线'	data.ShortName(matches.target) + '의 사슬 부수기'	holminster_switch.js line#111
+﻿'Point Tether Away From Furniture'	'Verbindung weg von der Einrichtung zeigen'	'Placez le liens loin des décors'		﻿'连线不要打到家具'	'징: 장판이 가구에 닿지 않게 하기'	the_grand_cosmos.js line#217
+﻿'Get In, Spread'	'Rein gehen, verteilen'	'Intérieur, écartez-vous'	'中で散開'	'中间散开'	'보스 가까이 탱 약산개'	e1s.js line#183
+'In, Stack Behind'	'Rein, hinten stacken'	'Intérieur, pack derrière'	'背面集合'	'背面集合'	'보스 가까이, 뒤에서 쉐어'	e1s.js line#192
+'Pass Prey to DPS'	'Marker einem DPS geben'	'Donnez la marque à un DPS'	'DPSに移して'	'传毒DPS'	'딜러한테 표식 넘기기'	e1s.js line#380
+'Pass Prey to Tank'	'Marker einem Tank geben'	'Donnez la marque à un Tank'	'タンクに移して'	'传毒坦克'	'탱커한테 표식 넘기기'	e1s.js line#389
+﻿'Spread (don\'t stack!)'	'Verteilen (nicht zusammen stehen)'	'Dispersez-vous'		'分散'	'산개 (쉐어 맞으면 안됨)'	e2n.js line#152
+﻿'Tank Swap!'	'Tankwechsel!'	'Tank swap !'	'スイッチ'	'换T！'	'탱 교대!'	e3s.js line#105
+'Tank Buster on YOU'	'Tankbuster auf DIR'	'Tank buster sur VOUS'	'自分にタンクバスター'	'死刑点名'	'탱버 대상자'	e3s.js line#117
+'Flare To Outside Corner'	'Flare in die äuseren Ecken'	'Brasier dans un coin extérieur'	'隅にフレア'	'外侧角落放核爆'	'플레어 양옆 뒤로 유도'	e3s.js line#242
+'Stack Outside, Avoid Flares'	'Auserhalb sammeln, Flares vermeiden'	'Packé à l\'extérieur, évitez les brasiers'	'前で集合'	'外侧集合躲避核爆'	'양옆 앞으로 모이고, 플레어 피하기'	e3s.js line#251
+'Knockback on YOU'	'Knockback auf Dir'	'Pousée sur VOUS'	'自分にノックバック'	'击退点名'	'넉백 대상자'	e3s.js line#367
+'Late First Knockback'	'Erster reinigender Knockback'	'Poussée tardive 1'	'遅ノックバック1'	'迟击退点名 #1'	'늦은 넉백 대상자 1'	e3s.js line#382
+'Late Second Knockback'	'Zweiter reinigender Knockback'	'Poussée tardive 2'	'遅ノックバック2'	'迟击退点名 #2'	'늦은 넉백 대상자 2'	e3s.js line#391
+﻿'Hide Behind East'	'Im Osten vestecken'	'Cachez-vous derrière à l\'est'		'右边躲避'	'동쪽으로'	e4s.js line#208
+'Hide Behind West'	'Im Westen vestecken'	'Cachez-vous derrière à l\'ouest'		'左边躲避'	'서쪽으로'	e4s.js line#217
+'Go Cardinals First'	'Zuerst zu den Seiten gehen'	'Allez aux cardinaux en premier'	'十字'	'十字'	'먼저 측면으로 이동'	e4s.js line#236
+'Go Corners First'	'Zuerst in die Ecken gehen'	'Allez dans les coins en premier'		'先去角落'	'먼저 구석으로 이동'	e4s.js line#246
+'Away from Tanks'	'Weg von den Tanks'	'Loin des tanks'	'タンクから離れて'	'远离坦克'	'탱커에서 멀어지기'	e4s.js line#404
+'Stack on YOU'	'Auf DIR sammeln'	'Package sur VOUS'	'自分にシェア'	'集合分摊'	'쉐어징 대상자'	e4s.js line#414
+'Stack on ' + data.ShortName(matches.target)	'Auf ' + data.ShortName(matches.target) + ' sammeln'	'Package sur ' + data.ShortName(matches.target)	data.ShortName(matches.target) + 'にシェア'	'集合 ->' + data.ShortName(matches.target)	'"' + data.ShortName(matches.target) + '" 쉐어징'	e4s.js line#423
+﻿'Big Knockback'	'Weiter Rückstoß'	'Forte poussée'		'长击退'	'긴 넉백'	e5s.js line#84
+'Short Knockback'	'Kurzer Rückstoß'	'Faible poussée'		'短击退'	'짧은 넉백'	e5s.js line#92
+'Ready Spread'	'Bereitmachen zum Verteilen'	'Dispersion bientôt'		'准备分散'	'산개 준비'	e5s.js line#194
+'donut AoE'	'Donut AoE'	'AoE en donut'		'环形AoE'	'도넛 장판'	e5s.js line#202
+﻿'Enumeration'	'Enumeration'	'Enumération'		'蓝圈分摊'	'2인 장판'	e6n.js line#50
+'Charge on YOU'	'Ansturm auf DIR'	'Charge sur VOUS'		'冲锋点名'	'돌진 대상자'	e6n.js line#83
+'Tank Swap'	'Tank Swap'	'Tank Swap'		'换坦克'	'탱 교대'	e6n.js line#93
+﻿'Tethered to ' + data.ShortName(matches.target)	'Verbunden mit ' + data.ShortName(matches.target)	'Lié à ' + data.ShortName(matches.target)		'和' + data.ShortName(matches.target) + '连线'	'선 연결 짝: ' + data.ShortName(matches.target)	e6s.js line#250
+'Tethered to ' + data.ShortName(matches.source)	'Verbunden mit ' + data.ShortName(matches.source)	'Lié à ' + data.ShortName(matches.source)		'和' + data.ShortName(matches.source) + '连线'	'선 연결 짝: ' + data.ShortName(matches.source)	e6s.js line#258
+﻿'Get hit by dark'		'Encaissez le noir'		'被黑打'	'어둠 맞기'	e7n.js line#112
+'Get hit by light'		'Encaissez le blanc'		'被白打'	'빛 맞기'	e7n.js line#131
+﻿'Stack (' + names.join(', ') + ')'	'Sammeln (' + names.join(', ') + ')'	'Package (' + names.join(', ') + ')'		'分摊 (' + names.join(', ') + ')'	'모이기 (' + names.join(', ') + ')'	e7s.js line#115
+'Stack (' + names.join(', ') + ')'	'Sammeln (' + names.join(', ') + ')'	'Package (' + names.join(', ') + ')'		'分摊 (' + names.join(', ') + ')'	'모이기 (' + names.join(', ') + ')'	e7s.js line#291
+'Get hit by ' + data.colorMap[data.color][data.lang]	'Lass dich treffen von ' + data.colorMap[data.color][data.lang]	'Encaissez le ' + data.colorMap[data.color][data.lang]		'撞' + data.colorMap[data.color][data.lang]	data.colorMap[data.color][data.lang] + ' 맞기'	e7s.js line#425
+'Stand in ' + data.colorMap[data.color][data.lang]	'Stehe in ' + data.colorMap[data.color][data.lang]	'Restez sur ' + data.colorMap[data.color][data.lang]		'站进' + data.colorMap[data.color][data.lang]	data.colorMap[data.color][data.lang] + '에 서기'	e7s.js line#471
+﻿'Cone on YOU -- avoid towers'				'点名 远离塔'	'부채꼴 대상자 - 장판 피하기'	e8n.js line#234
+'Stand in a tower'				'踩塔'	'장판 들어가기'	e8n.js line#239
+﻿'Tether ' + data.rushCount	'Verbindung ' + data.rushCount	'Lien ' + data.rushCount		'和' + data.rushCount + '连线'	'선: ' + data.rushCount	e8s.js line#59
+'Biting Frost Next'	'Frosthieb als nächstes'	'Taillade de givre bientôt'		'下次攻击前侧方'	'다음: Biting/スラッシュ'	e8s.js line#126
+'Driving Frost Next'	'Froststoß als nächstes'	'Percée de givre bientôt'		'下次攻击后方'	'다음: Driving/スラスト'	e8s.js line#134
+'Biting Frost Next'	'Frosthieb als nächstes'	'Taillade de givre bientôt'		'下次攻击前侧方'	'다음: 바이팅 스라슈'	e8s.js line#144
+'Driving Frost Next'	'Froststoß als nächstes'	'Percée de givre bientôt'		'下次攻击后方'	'다음: 드라이빙 스라스토'	e8s.js line#152
+'North / South'		'Nord / Sud'		'南北站位'	'남 / 북'	e8s.js line#179
+'East / West'		'Est / Ouest'		'东西站位'	'동 / 서'	e8s.js line#186
+'Morn Afah on YOU'	'Morn Afah auf DIR'	'Morn Afah sur VOUS'		'无尽顿悟点名'	'몬아파 대상자'	e8s.js line#314
+'Morn Afah on ' + data.ShortName(matches.target)	'Morn Afah auf ' + data.ShortName(matches.target)	'Morn Afah sur ' + data.ShortName(matches.target)		'无尽顿悟点名' + data.ShortName(matches.target)	'"' + data.ShortName(matches.target) + '" 몬 아파'	e8s.js line#323
+'Red #' + data.wyrmclawNumber	'Rot #' + data.wyrmclawNumber	'Rouge #' + data.wyrmclawNumber		'红色 #' + data.wyrmclawNumber	'빨강 ' + data.wyrmclawNumber + '번'	e8s.js line#419
+'Blue #' + data.wyrmfangNumber	'Blau #' + data.wyrmfangNumber	'Bleu #' + data.wyrmfangNumber		'蓝色 #' + data.wyrmfangNumber	'파랑 ' + data.wyrmfangNumber + '번'	e8s.js line#454
+﻿'tank swap soon'	'Gleich: Tank swap'	'Tank swap bientôt'	'まもなく、タンクスイッチ'	'坦克即将换T'	'곧 탱교대'	hades-ex.js line#287
+'Buster on ' + data.ShortName(matches.target)	'Tankbuster auf ' + data.ShortName(matches.target)	'Tankbuster sur ' + data.ShortName(matches.target)	data.ShortName(matches.target) + 'にTB'	'死刑点 ' + data.ShortName(matches.target)	'"' + data.ShortName(matches.target) + '" 탱버'	hades-ex.js line#540
+'Away from ' + data.ShortName(matches.target)		'Eloignez-vous de ' + data.ShortName(matches.target)	data.ShortName(matches.target) + 'から離れて'	'远离 ' + data.ShortName(matches.target)	'"' + data.ShortName(matches.target) + '" 탱버'	hades-ex.js line#549
+'Knockback + Stack With Partner'	'Rückstoß + sammeln beim Partner'	'Poussée + package avec votre partenaire'	'パートナーと ノックバック + 頭割り'	'与伙伴 击退 + 集合'	'넉백 + 파트너랑 모이기'	hades-ex.js line#658
+﻿'Away From ' + data.ShortName(matches.target)	'Weg von ' + data.ShortName(matches.target)	'Loin de ' + data.ShortName(matches.target)		'远离 ' + data.ShortName(matches.target)	data.ShortName(matches.target) + ' 한테서 피하세요'	hades.js line#54
+'Stack on ' + data.ShortName(name)	'Sammeln auf ' + data.ShortName(name)	'Package sur ' + data.ShortName(name)		'靠近 ' + data.ShortName(name) + ' 集合'	'쉐어징대상자 -> ' + data.ShortName(name)	hades.js line#330
+﻿'Starbirth: Corner'	'Sternengeburt: Ecken'	'Accouchement Stellaire : Coin'	'スターバース: 角へ'	'创星：角落躲避'	'별생성: 구석으로'	innocence-ex.js line#55
+'Starbirth: Avoid + Charge'	'Sternengeburt: Ausweichen + Charge'	'Accouchement Stellaire : Evitez + Charge'	'スターバース: 玉のない隅へ'	'创星：躲避 + 冲锋'	'별 생성: 별 피해서 징 맞기 + 돌진'	innocence-ex.js line#64
+'Starbirth: Explode'	'Sternengeburt: Explosion'	'Accouchement Stellaire : Explosion'	'スターバース: 爆発'	'创星：爆炸'	'별 생성: 별 터뜨리기'	innocence-ex.js line#73
+'Starbirth: Charge'	'Sternengeburt: Charge'	'Accouchement Stellaire : Charge'	'スターバース: 突進'	'创星：冲锋'	'별 생성: 돌진'	innocence-ex.js line#82
+'Starbirth: Enrage'	'Sternengeburt: Finalangriff'	'Accouchement Stellaire : Enrage'	'スターバース: 時間切れ'	'创星：狂暴'	'별 생성: 전멸기'	innocence-ex.js line#91
+'Avoid Charge and Orbs'	'Charge und Orbs ausweichen'	'Evitez les charges et orbes'	'玉と突進避けて'	'躲避冲锋与晶石'	'돌진이랑 구슬 폭발을 피하세요'	innocence-ex.js line#204
+'Aim Line At Back Orb'	'Ziehle mit der Linie auf den entferntesten Orb'	'Visez l\'orbe arrière avec la ligne'	'後ろの玉に当てて'	'分摊瞄准后方晶石'	'멀리 있는 구슬 하나 맞추세요'	innocence-ex.js line#281
+'Avoid Orbs With Line'	'Ziehle nicht auf einen Orb'	'Evitez l\'orbe avec la ligne'	'玉に当てるな'	'躲开晶石与直线'	'쉐어징이 구슬에 맞지 않게 하세요'	innocence-ex.js line#290
+'Circle, Avoid Orbs'	'Kreis, vermeide Orbs'	'Cercle, Evitez orbes'	'オーブに当てないで'	'圆圈点名，远离晶石'	'원형 징, 구슬 피하세요'	innocence-ex.js line#355
+﻿'Attack Blue (East)'	'Greife Blau an (Osten)'	'Attaquez le bleu (Est)'		'攻击蓝色(东)'	'파란색 공격 (오른쪽)'	ruby-weapon-ex.js line#160
+'Attack Red (West)'	'Greife Rot an (Westen)'	'Attaquez le rouge (Ouest)'		﻿'攻击红色(西)'	'빨간색 공격 (왼쪽)'	ruby-weapon-ex.js line#181
+'Attack Red (East)'	'Greife Rot an (Osten)'	'Attaquez le rouge (Est)'		﻿'攻击红色(东)'	'빨간색 공격 (오른쪽)'	ruby-weapon-ex.js line#251
+'Attack Blue (West)'	'Greife Blau an (Westen)'	'Attaquez le bleu (Ouest)'		﻿'攻击蓝色(西)'	'파란색 공격 (왼쪽)'	ruby-weapon-ex.js line#258
+'Comets N/S'		'Comètes N/S'		'彗星 北/南'	'남/북 운석 낙하'	ruby-weapon-ex.js line#348
+'Comets E/W'		'Comètes E/O'		'彗星 东/西'	'동/서 운석낙하'	ruby-weapon-ex.js line#354
+﻿'In/Out, then Water Positions'	'Rein/Raus, danach Wasser Positionen'	'Dedans/Dehors puis position pour l\'eau'	'中/外避けてポジションへ'	'靠近/远离, 水圈站位'	'안/밖 -> 물 장판 위치'	titania-ex.js line#65
+'Stack (maybe rotate?)'	'Sammeln (evtl rotieren?)'	'Packez-vous (rotation ?)'	'シェア (多分時計回り?)'	'左右集合 (可能旋转?)'	'쉐어징 모이기'	titania-ex.js line#99
+'Stack Positions'	'Sammel-Positionen'	'Packez-vous'	'シェア'	'左右集合'	'쉐어징 모이기'	titania-ex.js line#108
+'Pummel ' + data.pummelCount	'Deftige Dachtel ' + data.pummelCount	'Torgnole ' + data.pummelCount	'殴打 ' + data.pummelCount	'殴打 ' + data.pummelCount	'구타 ' + data.pummelCount	titania-ex.js line#295
+'Thunder ' + data.thunderCount	'Blitz ' + data.thunderCount	'Foudre ' + data.thunderCount	'線' + data.thunderCount + '人目'	'雷连线 #' + data.thunderCount	data.thunderCount + '번째 번개'	titania-ex.js line#388
+﻿'Group Adds East (on Mustardseed)'	'Adds im Osten sammeln (bei Senfsamen)'			﻿'东边小怪 (芥子)'		titania.js line#188
+'Kill Mustardseed (East)'	'Senfsamen angreifen (Osten)'			'击杀芥子 (东)'		titania.js line#193
+﻿'Tank Buster on ' + data.ShortName(data.liquidTank)	'Tank buster'	'Tank buster'	'タンクバスター'	'死刑 -> ' + data.ShortName(data.liquidTank)	'탱크버스터'	the_epic_of_alexander.js line#77
+'Tank Buster'	'Tank buster'	'Tank buster'	'タンクバスター'	'死刑'	'탱크버스터'	the_epic_of_alexander.js line#86
+'Tank Cleave'	'Tank Cleave'	'Tank Cleave'	'タンククリーブ'	'坦克顺劈'	'탱크 범위 공격'	the_epic_of_alexander.js line#115
+'Soak This Puddle (#' + matches[1] + ')'	'Fläche nehmen (#' + matches[1] + ')'	'Absorbe cette flaque (#' + matches[1] + ')'	'懺悔踏む (#' + matches[1] + ')'	'踩水圈 (#' + matches[1] + ')'	'참회 밟기 (#' + matches[1] + ')'	the_epic_of_alexander.js line#220
+'Puddle #' + matches[1]	'Fläche #' + matches[1]	'Flaque #' + matches[1]	'懺悔 #' + matches[1]	'水圈 #' + matches[1]	'참회 #' + matches[1]	the_epic_of_alexander.js line#233
+'Soak This Puddle'	'Fläche nehmen'		'沼踏んで'	'踩水圈'	'웅덩이 밟기'	the_epic_of_alexander.js line#244
+'Shared Tankbuster'	'geteilter Tankbuster'	'Tankbuster partagé'	'タンクシェア'	'分摊死刑'	'쉐어 탱크버스터'	the_epic_of_alexander.js line#263
+'Get Final Nisi (?)'	'Nehme letzten Nisi (?)'	'Récupère Nisi Final (?)'	'最後のナイサイを取得 (?)'	'取得最后审判 (?)'	'마지막 나이사이 받기 (?)'	the_epic_of_alexander.js line#339
+'Pass ' + data.nisiNames[myNisi] + ' Nisi'	'Gebe ' + data.nisiNames[myNisi] + ' Nisi'	'Passe ' + data.nisiNames[myNisi] + ' Nisi'	data.nisiNames[myNisi] + ' を渡す'	'传递 ' + data.nisiNames[myNisi] + '审判'	'나이사이 건네기: ' + data.nisiNames[myNisi]	the_epic_of_alexander.js line#367
+'Get ' + data.nisiNames[myNisi]	'Nimm ' + data.nisiNames[myNisi]	'Récupère ' + data.nisiNames[myNisi]	data.nisiNames[myNisi] + ' を取る'	'获得 ' + data.nisiNames[myNisi]	'나이사이 가져오기: ' + data.nisiNames[myNisi]	the_epic_of_alexander.js line#400
+'Get ' + data.nisiNames[myNisi] + ' from ' + data.ShortName(names[0])	'Nimm ' + data.nisiNames[myNisi] + ' von ' + data.ShortName(names[0])	'Récupère ' + data.nisiNames[myNisi] + ' de ' + data.ShortName(names[0])	data.ShortName(names[0]) + ' から ' + data.nisiNames[myNisi] + ' を取る'	'从 '+ data.ShortName(names[0]) + '获得' + data.nisiNames[myNisi]	'나이사이 가져오기: ' + data.nisiNames[myNisi] + ' ← ' + data.ShortName(names[0])	the_epic_of_alexander.js line#409
+'Focus Living Liquid'	'belebtes Wasser fokussieren'		'リビングリキッドを攻撃'	'攻击水基佬'	'인간형 집중 공격'	the_epic_of_alexander.js line#575
+'#' + data.limitCutNumber	'#' + data.limitCutNumber	'#' + data.limitCutNumber	data.limitCutNumber + '番'	'#' + data.limitCutNumber	data.limitCutNumber + '번째'	the_epic_of_alexander.js line#656
+'Knockback Cleave; Face Outside'	'Rückstoß Cleave; nach Außen schauen'	'Poussée Cleave; Regarde à l\'extérieur'	'ノックバック ソード; 外向く'	'击退顺劈; 面向外侧'	'넉백 소드; 바깥쪽 바라보기'	the_epic_of_alexander.js line#681
+'Knockback Charge; Face Middle'	'Rückstoß Charge; zur Mitte schauen'	'Poussée Charge; Regarde à l\'intérieur'	'ノックバック チャージ; 中央向く'	'击退冲锋; 面向中间'	'넉백 차지; 안쪽 바라보기'	the_epic_of_alexander.js line#690
+'Knockback Cleave on YOU'	'Rückstoß Cleave auf DIR'	'Cleave sur VOUS'	'自分にクリーブ'	'击退顺劈点名'	'나에게 넉백 공격'	the_epic_of_alexander.js line#700
+'Knockback'	'Rückstoß'	'Poussée'	'ノックバック'	'击退'	'넉백'	the_epic_of_alexander.js line#709
+'Enumeration: ' + names.map((x) => data.ShortName(x)).join(', ')	'Enumeration: ' + names.map((x) => data.ShortName(x)).join(', ')	'Enumeration: ' + names.map((x) => data.ShortName(x)).join(', ')	'カウント: ' + names.map((x) => data.ShortName(x)).join(', ')	'计数' + names.map((x) => data.ShortName(x)).join(', ')	'인원수 대상: ' + names.map((x) => data.ShortName(x)).join(', ')	the_epic_of_alexander.js line#857
+'Drop Water Soon'	'Gleich Wasser ablegen'	'Dépose l\'eau bientôt'	'水来るよ'	'马上放水'	'물이 곧 옵니다'	the_epic_of_alexander.js line#923
+'Drop Lightning Soon'	'Gleich Blitz ablegen'	'Passe la foudre bientôt'	'雷来るよ'	'马上放雷'	'번개가 곧 옵니다'	the_epic_of_alexander.js line#971
+'Verdict: ' + data.nisiNames[num] + ' Nisi'	'Prozesseröffnung: ' + data.nisiNames[num] + ' Nisi'	'Verdict: ' + data.nisiNames[num] + ' Nisi'	'最終: ' + data.nisiNames[num]	'最终: ' + data.nisiNames[num]	'최종: ' + data.nisiNames[num]	the_epic_of_alexander.js line#1096
+'Shared Tankbuster on YOU'	'geteilter Tankbuster auf DIR'	'Tankbuster partagé sur vous'	'自分にタンクシェア'	'分摊死刑点名'	'나에게 쉐어 탱크버스터'	the_epic_of_alexander.js line#1128
+'Shared Tankbuster on ' + data.ShortName(matches.target)	'geteilter Tankbuster on ' + data.ShortName(matches.target)	'Tankbuster partagé sur ' + data.ShortName(matches.target)	data.ShortName(matches.target) + ' にタンクシェア'	'分摊死刑点 ' + data.ShortName(matches.target)	'쉐어 탱크버스터 대상: ' + data.ShortName(matches.target)	the_epic_of_alexander.js line#1138
+'Bait Super Jump?'	'Supersprung anlocken?'		'スパジャン誘導'	'引导超级跳跃'	'슈퍼 점프 유도'	the_epic_of_alexander.js line#1151
+'No Debuff'	'Kein Debuff'		'デバフ無し'	'无 Debuff'	'디버프 없음'	the_epic_of_alexander.js line#1210
+'Shared Sentence on ' + matches.target			matches.target + ' に集団罰'	'集团罪->' + matches.target	matches.target + ' 에게 단체형'	the_epic_of_alexander.js line#1293
+'Bait Jump With Cooldowns'			'スパジャン誘導'	'引导冷却跳跃'	'슈퍼 점프 유도'	the_epic_of_alexander.js line#1450
+'Bait Sword'	'Locke Chaser-Mecha Schwert'		'ソード誘導'	'引导剑'	'소드 유도'	the_epic_of_alexander.js line#1465
+'Bait Sword or Jump?'			'ソードかジャンプ誘導?'	'引导剑或跳?'	'소드 또는 슈퍼 점프 유도?'	the_epic_of_alexander.js line#1475
+'Vuln: Avoid cleaves and jump'			'被ダメ増加'	'易伤：躲避顺劈和跳'	'받는 데미지 증가: 공격과 점프 피할것'	the_epic_of_alexander.js line#1489
+'Bait Chakrams mid; Look opposite Alex'	'Locke Chakrams mittig; schau weg von Alex'		'中央にチャクラム誘導; アレキの反対見て'	'中间引导轮轮，背对亚历山大'	'가운데로 차크람 유도; 알렉 반대쪽이 북쪽'	the_epic_of_alexander.js line#1508
+'Bait Chakrams'			'チャクラム誘導'	'引导轮轮'	'차크람 유도'	the_epic_of_alexander.js line#1516
