@@ -1,0 +1,71 @@
+﻿en	de	fr	ja	cn	ko	lineno
+﻿'Out of death circle'	'Raus aus den Todeskreisen'	'Sortez du cercle de mort'				dun_scaith.js 影之国 line#26
+'Cleanse Doom soon!'	'Verhängnis bald reinigen!'	'Guerrissez Glas bientot'				dun_scaith.js 影之国 line#46
+'Kill sprites'	'Exergone töten'	'Tuez les adds'				dun_scaith.js 影之国 line#74
+'Drop Tornado outside'	'Wirbel draußen ablegen'	'Déposez les tornades à l\'extérieur'				dun_scaith.js 影之国 line#86
+'Avoid death squares'	'Weiche den Todes-Feldern aus'	'Evitez les carrés mortels'				dun_scaith.js 影之国 line#115
+'Drop scythe outside'	'Sense draußen ablegen'	'Posez à l\'extérieur'				dun_scaith.js 影之国 line#128
+'Avoid Untethered Blue'	'Weiche dem nicht verbundenen blauem Atomos aus'	'Evitez Gueule bleue non-liée'				dun_scaith.js 影之国 line#158
+'Go to Untethered Blue'	'Gehe zu dem nicht verbundenen blauem Atomos'	'Allez vers la Gueule bleue non-liée'				dun_scaith.js 影之国 line#165
+'Avoid Untethered Yellow'	'Weiche dem nicht verbundenen gelben Atomos aus'	'Evitez Gueule jaune non-liée'				dun_scaith.js 影之国 line#183
+'Go to Untethered Yellow'	'Gehe zu dem nicht verbundenen gelben Atomos'	'Allez vers la Gueule jaune non-liée'				dun_scaith.js 影之国 line#190
+'Avoid puddles'	'Flächen ausweichen'	'Evitez les zones au sol'				dun_scaith.js 影之国 line#206
+'Change puddles to water'	'Ändere Flächen zu Wasser'	'Changez en eau'				dun_scaith.js 影之国 line#222
+'Change puddles to fire'	'Ändere Flächen zu Feuer'	'Changez en feu'				dun_scaith.js 影之国 line#238
+'Dodge trident laser'	'Weiche dem Laser aus'	'Evitez le laser'				dun_scaith.js 影之国 line#255
+'Prey--Avoid party and keep moving'	'Markiert - Weg von der Gruppe und bleib in Bewegung'	'Marquage - Evitez les autres et bougez'				dun_scaith.js 影之国 line#285
+'Out of center--Wait for outer ring then keep going'	'Raus aus der Mitte - Warte auf den äuseren Ring'	'Loin du centre - Attendez l\'anneau extérieur et continuez'				dun_scaith.js 影之国 line#307
+'Avoid flares--Wait for outer ring then keep going'	'Flares ausweichen - Warte auf den äuseren Ring'	'Evitez les explosions - Attendez l\'anneau extérieur et continuez'				dun_scaith.js 影之国 line#313
+'Avoid line AoE'	'Weiche der Linien AoE aus'	'Evitez l\'AoE en ligne'				dun_scaith.js 影之国 line#328
+'Avoid Bit AoEs'	'Weiche den Bit AoEs aus'	'Evitez les AoE des forets'				dun_scaith.js 影之国 line#345
+'Kill collectors'	'Ätherakkumulator besiegen'	'Détruisez les accumulateurs'				dun_scaith.js 影之国 line#360
+'Avoid arm slaps'	'Weiche den Armschlägen aus'	'Evitez les bras'				dun_scaith.js 影之国 line#377
+'Avoid line AoEs'	'Weiche den Linien AoEs aus'	'Evitez les AoE en ligne'				dun_scaith.js 影之国 line#402
+'Kill the hands'	'Besiege die Hand'	'Tuez les mains'				dun_scaith.js 影之国 line#443
+'Avoid AoE, Kill Connla'	'Weiche AoE aus, besiege Connla'	'Evitez les AoE, tuez Connla'				dun_scaith.js 影之国 line#457
+'Take orb outside'	'Orb nach außen bringen'	'Prenez l\'orb à l\'extérieur'				dun_scaith.js 影之国 line#470
+'Boss hitting hard--Shield/Mitigate'	'Harter Hit vom Boss - Schild/Milderung'	'Le boss frappe fort - Bouclier/Mitigation'				dun_scaith.js 影之国 line#521
+'Kill the deathgates'	'Besiege die Tore des Todes'	'Détruisez les portes de mort'				dun_scaith.js 影之国 line#550
+'Gaze stack on YOU'	'Blick-Sammeln auf DIR'	'Package sur VOUS'				dun_scaith.js 影之国 line#571
+'Stack on ' + data.ShortName(matches.target) + ' and look away'	'Sammeln bei ' + data.ShortName(matches.target) + ' und wewg schauen'	'Package sur ' + data.ShortName(matches.target) + ' et regardez ailleurs'				dun_scaith.js 影之国 line#577
+﻿'Stand in dark portal'	'Im dunklen Portal stehen'	'Allez dans le portail noir'				aetherochemical_research_facility.js 血战苍穹魔科学研究所 line#114
+'Avoid your orb--pop others\''	'Weiche deinem Orb aus - löse die Orbs der anderen aus'	'Evitez votre orbe, détruisez les autres'				aetherochemical_research_facility.js 血战苍穹魔科学研究所 line#129
+﻿'Use a cage'	'Benutze einen Käfig'	'Utilisez une cage'				fractal_continuum.js 博物战舰无限回廊 line#85
+'Cleanse bomb'	'Reinige Bomben-Debuff'	'Guérissez la bombe'				fractal_continuum.js 博物战舰无限回廊 line#102
+﻿'Close to boss'	'Nahe zum Boss'	'Près du boss'				gubal_library_hard.js 秘本宝库迦巴勒幻想图书馆 line#65
+'Away from boss'	'Weg vom Boss'	'Eloignez-vous du boss'				gubal_library_hard.js 秘本宝库迦巴勒幻想图书馆 line#71
+'Away from boss'	'Weg vom Boss'	'Eloignez-vous du boss'				gubal_library_hard.js 秘本宝库迦巴勒幻想图书馆 line#90
+'Stand in red'	'Im Roten stehen'	'Restez dans le rouge'				gubal_library_hard.js 秘本宝库迦巴勒幻想图书馆 line#107
+'Stand in blue'	'Im Blauen stehen'	'Restez dans le bleu'				gubal_library_hard.js 秘本宝库迦巴勒幻想图书馆 line#124
+'Interrupt Mechanoscribe'	'unterbreche Mechanoscholar'	'Interrompez le Mécano-scribe'				gubal_library_hard.js 秘本宝库迦巴勒幻想图书馆 line#141
+'Stun Mechanoscribe'	'betäube Mechanoscholar'	'Etourdissez le Mécano-scribe'				gubal_library_hard.js 秘本宝库迦巴勒幻想图书馆 line#148
+'Stand in light circle'	'Im hellen Kreis stehen'	'Restez dans le cercle blanc'				gubal_library_hard.js 秘本宝库迦巴勒幻想图书馆 line#164
+'Stand in dark circle'	'Im dunklen Kreis stehen'	'Restez dans le cercle noir'				gubal_library_hard.js 秘本宝库迦巴勒幻想图书馆 line#178
+'Cleanse in green circle'	'Im grünen Kreis reinigen'	'Nettoyez dans le cercle vert'				gubal_library_hard.js 秘本宝库迦巴勒幻想图书馆 line#192
+'Hide behind boulder'	'Hinter dem Brocken verstecken'	'Derrière le rocher'				gubal_library_hard.js 秘本宝库迦巴勒幻想图书馆 line#230
+﻿'Kill Chyme Add'	'Brei Add töten'	'Tuez l\'add'				sohm_al.js 天山绝顶索姆阿尔灵峰 line#29
+﻿'Avoid dashes'	'Sprint ausweichen'	'Evitez les dash'				the_vault.js 圣教中枢伊修加德教皇厅 line#22
+'Heal + shield ' + data.ShortName(matches.target)	'Heilung + Schild ' + data.ShortName(matches.target)	'Heal + boucliers ' + data.ShortName(matches.target)				the_vault.js 圣教中枢伊修加德教皇厅 line#68
+'Away from rifts'	'Weg von de Ätherspalten'	'Eloignez-vous des déchirures'				the_vault.js 圣教中枢伊修加德教皇厅 line#116
+'Evade marching knights'	'Marschierenden Rittern ausweichen'	'Esquivez les chevaliers'				the_vault.js 圣教中枢伊修加德教皇厅 line#166
+﻿'Liftoff Soon'						a1s.js 亚历山大零式机神城 \(启动之章1\) line#14
+'Hydrothermal on You'						a1s.js 亚历山大零式机神城 \(启动之章1\) line#39
+'Hydrothermal on ' + data.hydro.map((x) => data.ShortName(x)).join(', ')						a1s.js 亚历山大零式机神城 \(启动之章1\) line#51
+'Bait Resin Bomb'						a1s.js 亚历山大零式机神城 \(启动之章1\) line#68
+'Tank Busters'	'Tank buster'	'Tank busters'	'タンクバスター'	'坦克死刑'	'탱버'	a1s.js 亚历山大零式机神城 \(启动之章1\) line#98
+﻿'Get Mines'	'Mienen nehmen'	'Prenez les mines'				a6s.js 亚历山大零式机神城 \(律动之章2\) line#63
+'Avoid Mines'	'Mienen vermeiden'	'Evitez les mines'				a6s.js 亚历山大零式机神城 \(律动之章2\) line#69
+'Dodge Mirage Charge'	'Superladung ausweichen'	'Esquivez la charge de la réplique'				a6s.js 亚历山大零式机神城 \(律动之章2\) line#85
+'Look Away from Mirage'	'Von Replikant wegschauen'	'Ne regardez pas la réplique'				a6s.js 亚历山大零式机神城 \(律动之章2\) line#102
+'Look Towards Mirage'	'Von Replikant hinschauen'	'Regardez la réplique'				a6s.js 亚历山大零式机神城 \(律动之章2\) line#119
+'Double Buster: Group Soak'	'Doppel Buster: Gruppe sammeln'	'Double buster: Packez-vous'				a6s.js 亚历山大零式机神城 \(律动之章2\) line#146
+'Get Away from Boss'	'Gehe weit weg vom Boss'	'Eloignez-vous du boss'				a6s.js 亚历山大零式机神城 \(律动之章2\) line#163
+'Double Drill: Be Near/Far'	'Doppel Bohrer: Sei weit weg/nah dran'	'Double foreuse : Soyez Loin/Près'				a6s.js 亚历山大零式机神城 \(律动之章2\) line#180
+'Go High'	'Geh Hoch'	'Allez en haut'				a6s.js 亚历山大零式机神城 \(律动之章2\) line#197
+'Go Low'	'Geh Runter'	'Allez en bas'				a6s.js 亚历山大零式机神城 \(律动之章2\) line#214
+'Hide Behind Tornado'	'Hinter Tornado verstecken'	'Cachez vous derrière la tornade'				a6s.js 亚历山大零式机神城 \(律动之章2\) line#248
+'Ice Missile on YOU'	'Eis Rakete auf DIR'	'Missile de glace sur VOUS'				a6s.js 亚历山大零式机神城 \(律动之章2\) line#260
+'Water on YOU'	'Wasser auf DIR'	'Eau sur VOUS'	'自分に水'			a6s.js 亚历山大零式机神城 \(律动之章2\) line#277
+'Drop Water Soon'	'Gleich Wasser ablegen'	'Posez l\'eau bientôt'	'水来るよ'			a6s.js 亚历山大零式机神城 \(律动之章2\) line#299
+'Lightning on YOU'	'Blitz auf DIR'	'Eclair sur VOUS'	'自分に雷'			a6s.js 亚历山大零式机神城 \(律动之章2\) line#317
+'Drop Lightning Soon'	'Gleich Blitz ablegen'	'Déposez l\'éclair bientôt'	'雷来るよ'			a6s.js 亚历山大零式机神城 \(律动之章2\) line#339

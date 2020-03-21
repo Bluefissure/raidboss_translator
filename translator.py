@@ -110,6 +110,8 @@ def get_config():
 	parser.add_argument('-f', '--file', help='The file to be translated.')
 	parser.add_argument('-e', '--export', action='store_true', help='Export the responses to response.csv')
 	parser.add_argument('-rf', '--response_file', default='response.csv', help='Response file to save/load responses.')
+	parser.add_argument('-ti', '--timeline', action='store_true', help='Whether to fix timeline translation.')
+	parser.add_argument('-tr', '--trigger', action='store_true', help='Whether to fix trigger translation.')
 	# Parse args.
 	args = parser.parse_args()
 	return args
@@ -177,20 +179,22 @@ def export_response(t, args):
 		entries = []
 		with codecs.open(args.file, "r", "utf8") as file:
 			content = file.read()
-			matches = re.finditer(r"( *)(?:(?:info|alert|alarm)Text:|return) {(?:(.*\n))*?\1}[,;]", content, re.MULTILINE)
+			zone_name = re.search(r"(?: *)(?:zoneRegex:) {(?:(?:.*\n))*?(?:.*?cn: /\^(.*)\$/),", content, re.MULTILINE)
+			zone_name = zone_name.group(1) if zone_name else ""
+			matches = re.finditer(r"( *)(?:(?:info|alert|alarm)Text:|return|tts) {(?:(.*\n))*?\1}[,;]", content, re.MULTILINE)
 			for m in matches:
 				lineno = content[:m.start(0)].count('\n') + 1
 				# print(f"line#{lineno}:")
 				responces = re.finditer(r"(\w{2}): (.*),", m.group(0), re.MULTILINE)
 				entry = defaultdict(str)
-				entry["lineno"] = f"{os.path.basename(args.file)} line#{lineno}"
+				entry["lineno"] = f"{os.path.basename(args.file)} {zone_name} line#{lineno}"
 				for r in responces:
 					# print(f"{r.group(1)}:{r.group(2)}")
 					entry[r.group(1)] = r.group(2)
 				entries.append(entry)
 		existing_entry = set()
 		if not os.path.exists(args.response_file):
-			with codecs.open("response.csv", "w", "utf-8-sig") as response_file:
+			with codecs.open(args.response_file, "w", "utf-8-sig") as response_file:
 				fieldnames = ['en', 'de', 'fr', 'ja', 'cn', 'ko', 'lineno']
 				writer = csv.DictWriter(response_file, fieldnames=fieldnames, delimiter='\t')
 				writer.writeheader()
@@ -235,7 +239,7 @@ def handle_trigger(t, args):
 		offset = 0
 		with codecs.open(args.file, "r", "utf8") as file:
 			content = file.read()
-			matches = re.finditer(r"( *)(?:(?:info|alert|alarm)Text:|return) {(?:(.*\n))*?\1}[,;]", content, re.MULTILINE)
+			matches = re.finditer(r"( *)(?:(?:info|alert|alarm)Text:|return|tts) {(?:(.*\n))*?\1}[,;]", content, re.MULTILINE)
 			for m in matches:
 				trigger = m.group(0)
 				responces = re.finditer(r"(\w{2}): (.*),", trigger, re.MULTILINE)
@@ -274,5 +278,9 @@ if __name__ == "__main__":
 	if args.export:
 		export_response(t, args)
 	else:
-		handle_timeline(t, args)
-		handle_trigger(t, args)
+		if args.timeline:
+			handle_timeline(t, args)
+		if args.trigger:
+			handle_trigger(t, args)
+		if not args.timeline and not args.trigger:
+			print("Do nothing, please check with help.")
